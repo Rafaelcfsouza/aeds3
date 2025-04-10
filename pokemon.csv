@@ -1,0 +1,802 @@
+id,generation,name,description,type1,type2,abilities,weight_kg,height_m,capture_rate,is_legendary,capture_date
+1,1,Bulbasaur,Seed Pokemon,grass,poison,"['Overgrow', 'Chlorophyll']",6.9,0.7,45,0,05/01/1996
+2,1,Ivysaur,Seed Pokemon,grass,poison,"['Overgrow', 'Chlorophyll']",13.0,1.0,45,0,08/10/1996
+3,1,Venusaur,Seed Pokemon,grass,poison,"['Overgrow', 'Chlorophyll']",100.0,2.0,45,0,12/01/1996
+4,1,Charmander,Lizard Pokemon,fire,,"['Blaze', 'Solar Power']",8.5,0.6,45,0,04/12/1996
+5,1,Charmeleon,Flame Pokemon,fire,,"['Blaze', 'Solar Power']",19.0,1.1,45,0,06/03/1996
+6,1,Charizard,Flame Pokemon,fire,flying,"['Blaze', 'Solar Power']",90.5,1.7,45,0,20/12/1996
+7,1,Squirtle,Tiny Turtle Pokemon,water,,"['Torrent', 'Rain Dish']",9.0,0.5,45,0,25/01/1996
+8,1,Wartortle,Turtle Pokemon,water,,"['Torrent', 'Rain Dish']",22.5,1.0,45,0,20/12/1996
+9,1,Blastoise,Shellfish Pokemon,water,,"['Torrent', 'Rain Dish']",85.5,1.6,45,0,08/09/1996
+10,1,Caterpie,Worm Pokemon,bug,,"['Shield Dust', 'Run Away']",2.9,0.3,255,0,24/08/1996
+11,1,Metapod,Cocoon Pokemon,bug,,"['Shed Skin']",9.9,0.7,120,0,17/05/1996
+12,1,Butterfree,Butterfly Pokemon,bug,flying,"['Compoundeyes', 'Tinted Lens']",32.0,1.1,45,0,14/10/1996
+13,1,Weedle,Hairy Pokemon,bug,poison,"['Shield Dust', 'Run Away']",3.2,0.3,255,0,23/12/1996
+14,1,Kakuna,Cocoon Pokemon,bug,poison,"['Shed Skin']",10.0,0.6,120,0,06/12/1996
+15,1,Beedrill,Poison Bee Pokemon,bug,poison,"['Swarm', 'Sniper']",29.5,1.0,45,0,09/08/1996
+16,1,Pidgey,Tiny Bird Pokemon,normal,flying,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",1.8,0.3,255,0,07/08/1996
+17,1,Pidgeotto,Bird Pokemon,normal,flying,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",30.0,1.1,120,0,28/11/1996
+18,1,Pidgeot,Bird Pokemon,normal,flying,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",39.5,1.5,45,0,18/10/1996
+19,1,Rattata,Mouse Pokemon,normal,dark,"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",,,255,0,20/12/1996
+20,1,Raticate,Mouse Pokemon,normal,dark,"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",,,127,0,23/11/1996
+21,1,Spearow,Tiny Bird Pokemon,normal,flying,"['Keen Eye', 'Sniper']",2.0,0.3,255,0,18/10/1996
+22,1,Fearow,Beak Pokemon,normal,flying,"['Keen Eye', 'Sniper']",38.0,1.2,90,0,31/07/1996
+23,1,Ekans,Snake Pokemon,poison,,"['Intimidate', 'Shed Skin', 'Unnerve']",6.9,2.0,255,0,04/12/1996
+24,1,Arbok,Cobra Pokemon,poison,,"['Intimidate', 'Shed Skin', 'Unnerve']",65.0,3.5,90,0,28/01/1996
+25,1,Pikachu,Mouse Pokemon,electric,,"['Static', 'Lightningrod']",6.0,0.4,190,0,12/09/1996
+26,1,Raichu,Mouse Pokemon,electric,electric,"['Static', 'Lightningrod', 'Surge Surfer']",,,75,0,03/10/1996
+27,1,Sandshrew,Mouse Pokemon,ground,ice,"['Sand Veil', 'Sand Rush', 'Snow Cloak', 'Slush Rush']",,,255,0,20/08/1996
+28,1,Sandslash,Mouse Pokemon,ground,ice,"['Sand Veil', 'Sand Rush', 'Snow Cloak', 'Slush Rush']",,,90,0,15/02/1996
+29,1,Nidoran♀,Poison Pin Pokemon,poison,,"['Poison Point', 'Rivalry', 'Hustle']",7.0,0.4,235,0,08/10/1996
+30,1,Nidorina,Poison Pin Pokemon,poison,,"['Poison Point', 'Rivalry', 'Hustle']",20.0,0.8,120,0,11/01/1996
+31,1,Nidoqueen,Drill Pokemon,poison,ground,"['Poison Point', 'Rivalry', 'Sheer Force']",60.0,1.3,45,0,09/04/1996
+32,1,Nidoran♂,Poison Pin Pokemon,poison,,"['Poison Point', 'Rivalry', 'Hustle']",9.0,0.5,235,0,30/01/1996
+33,1,Nidorino,Poison Pin Pokemon,poison,,"['Poison Point', 'Rivalry', 'Hustle']",19.5,0.9,120,0,23/05/1996
+34,1,Nidoking,Drill Pokemon,poison,ground,"['Poison Point', 'Rivalry', 'Sheer Force']",62.0,1.4,45,0,23/07/1996
+35,1,Clefairy,Fairy Pokemon,fairy,,"['Cute Charm', 'Magic Guard', 'Friend Guard']",7.5,0.6,150,0,17/01/1996
+36,1,Clefable,Fairy Pokemon,fairy,,"['Cute Charm', 'Magic Guard', 'Unaware']",40.0,1.3,25,0,19/04/1996
+37,1,Vulpix,Fox Pokemon,fire,ice,"['Flash Fire', 'Drought', 'Snow Cloak', 'Snow Warning']",,,190,0,02/04/1996
+38,1,Ninetales,Fox Pokemon,fire,ice,"['Flash Fire', 'Drought', 'Snow Cloak', 'Snow Warning']",,,75,0,20/05/1996
+39,1,Jigglypuff,Balloon Pokemon,normal,fairy,"['Cute Charm', 'Competitive', 'Friend Guard']",5.5,0.5,170,0,27/06/1996
+40,1,Wigglytuff,Balloon Pokemon,normal,fairy,"['Cute Charm', 'Competitive', 'Frisk']",12.0,1.0,50,0,03/02/1996
+41,1,Zubat,Bat Pokemon,poison,flying,"['Inner Focus', 'Infiltrator']",7.5,0.8,255,0,06/09/1996
+42,1,Golbat,Bat Pokemon,poison,flying,"['Inner Focus', 'Infiltrator']",55.0,1.6,90,0,03/10/1996
+43,1,Oddish,Weed Pokemon,grass,poison,"['Chlorophyll', 'Run Away']",5.4,0.5,255,0,31/03/1996
+44,1,Gloom,Weed Pokemon,grass,poison,"['Chlorophyll', 'Stench']",8.6,0.8,120,0,11/07/1996
+45,1,Vileplume,Flower Pokemon,grass,poison,"['Chlorophyll', 'Effect Spore']",18.6,1.2,45,0,27/02/1996
+46,1,Paras,Mushroom Pokemon,bug,grass,"['Effect Spore', 'Dry Skin', 'Damp']",5.4,0.3,190,0,01/11/1996
+47,1,Parasect,Mushroom Pokemon,bug,grass,"['Effect Spore', 'Dry Skin', 'Damp']",29.5,1.0,75,0,04/04/1996
+48,1,Venonat,Insect Pokemon,bug,poison,"['Compoundeyes', 'Tinted Lens', 'Run Away']",30.0,1.0,190,0,06/10/1996
+49,1,Venomoth,Poison Moth Pokemon,bug,poison,"['Shield Dust', 'Tinted Lens', 'Wonder Skin ']",12.5,1.5,75,0,14/04/1996
+50,1,Diglett,Mole Pokemon,ground,ground,"['Sand Veil', 'Arena Trap', 'Sand Force', 'Sand Veil', 'Tangling Hair', 'Sand Force']",,,255,0,06/08/1996
+51,1,Dugtrio,Mole Pokemon,ground,ground,"['Sand Veil', 'Arena Trap', 'Sand Force', 'Sand Veil', 'Tangling Hair', 'Sand Force']",,,50,0,10/01/1996
+52,1,Meowth,Scratch Cat Pokemon,normal,dark,"['Pickup', 'Technician', 'Unnerve', 'Pickup', 'Technician', 'Rattled']",,,255,0,02/02/1996
+53,1,Persian,Classy Cat Pokemon,normal,dark,"['Limber', 'Technician', 'Unnerve', 'Fur Coat', 'Technician', 'Rattled']",,,90,0,01/12/1996
+54,1,Psyduck,Duck Pokemon,water,,"['Damp', 'Cloud Nine', 'Swift Swim']",19.6,0.8,190,0,30/09/1996
+55,1,Golduck,Duck Pokemon,water,,"['Damp', 'Cloud Nine', 'Swift Swim']",76.6,1.7,75,0,24/03/1996
+56,1,Mankey,Pig Monkey Pokemon,fighting,,"['Vital Spirit', 'Anger Point', 'Defiant']",28.0,0.5,190,0,02/05/1996
+57,1,Primeape,Pig Monkey Pokemon,fighting,,"['Vital Spirit', 'Anger Point', 'Defiant']",32.0,1.0,75,0,13/11/1996
+58,1,Growlithe,Puppy Pokemon,fire,,"['Intimidate', 'Flash Fire', 'Justified']",19.0,0.7,190,0,25/07/1996
+59,1,Arcanine,Legendary Pokemon,fire,,"['Intimidate', 'Flash Fire', 'Justified']",155.0,1.9,75,0,09/05/1996
+60,1,Poliwag,Tadpole Pokemon,water,,"['Water Absorb', 'Damp', 'Swift Swim']",12.4,0.6,255,0,02/01/1996
+61,1,Poliwhirl,Tadpole Pokemon,water,,"['Water Absorb', 'Damp', 'Swift Swim']",20.0,1.0,120,0,24/10/1996
+62,1,Poliwrath,Tadpole Pokemon,water,fighting,"['Water Absorb', 'Damp', 'Swift Swim']",54.0,1.3,45,0,26/08/1996
+63,1,Abra,Psi Pokemon,psychic,,"['Synchronize', 'Inner Focus', 'Magic Guard']",19.5,0.9,200,0,29/11/1996
+64,1,Kadabra,Psi Pokemon,psychic,,"['Synchronize', 'Inner Focus', 'Magic Guard']",56.5,1.3,100,0,17/07/1996
+65,1,Alakazam,Psi Pokemon,psychic,,"['Synchronize', 'Inner Focus', 'Magic Guard']",48.0,1.5,50,0,01/05/1996
+66,1,Machop,Superpower Pokemon,fighting,,"['Guts', 'No Guard', 'Steadfast']",19.5,0.8,180,0,14/06/1996
+67,1,Machoke,Superpower Pokemon,fighting,,"['Guts', 'No Guard', 'Steadfast']",70.5,1.5,90,0,06/08/1996
+68,1,Machamp,Superpower Pokemon,fighting,,"['Guts', 'No Guard', 'Steadfast']",130.0,1.6,45,0,28/09/1996
+69,1,Bellsprout,Flower Pokemon,grass,poison,"['Chlorophyll', 'Gluttony']",4.0,0.7,255,0,22/05/1996
+70,1,Weepinbell,Flycatcher Pokemon,grass,poison,"['Chlorophyll', 'Gluttony']",6.4,1.0,120,0,08/10/1996
+71,1,Victreebel,Flycatcher Pokemon,grass,poison,"['Chlorophyll', 'Gluttony']",15.5,1.7,45,0,10/07/1996
+72,1,Tentacool,Jellyfish Pokemon,water,poison,"['Clear Body', 'Liquid Ooze', 'Rain Dish']",45.5,0.9,190,0,01/09/1996
+73,1,Tentacruel,Jellyfish Pokemon,water,poison,"['Clear Body', 'Liquid Ooze', 'Rain Dish']",55.0,1.6,60,0,19/06/1996
+74,1,Geodude,Rock Pokemon,rock,ground,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",,,255,0,15/06/1996
+75,1,Graveler,Rock Pokemon,rock,ground,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",,,120,0,05/05/1996
+76,1,Golem,Megaton Pokemon,rock,ground,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",,,45,0,27/11/1996
+77,1,Ponyta,Fire Horse Pokemon,fire,,"['Run Away', 'Flash Fire', 'Flame Body']",30.0,1.0,190,0,24/06/1996
+78,1,Rapidash,Fire Horse Pokemon,fire,,"['Run Away', 'Flash Fire', 'Flame Body']",95.0,1.7,60,0,19/04/1996
+79,1,Slowpoke,Dopey Pokemon,water,psychic,"['Oblivious', 'Own Tempo', 'Regenerator']",36.0,1.2,190,0,30/04/1996
+80,1,Slowbro,Hermit Crab Pokemon,water,psychic,"['Oblivious', 'Own Tempo', 'Regenerator']",78.5,1.6,75,0,12/03/1996
+81,1,Magnemite,Magnet Pokemon,electric,steel,"['Magnet Pull', 'Sturdy', 'Analytic']",6.0,0.3,190,0,05/10/1996
+82,1,Magneton,Magnet Pokemon,electric,steel,"['Magnet Pull', 'Sturdy', 'Analytic']",60.0,1.0,60,0,23/02/1996
+83,1,Farfetch'd,Wild Duck Pokemon,normal,flying,"['Keen Eye', 'Inner Focus', 'Defiant']",15.0,0.8,45,0,25/02/1996
+84,1,Doduo,Twin Bird Pokemon,normal,flying,"['Run Away', 'Early Bird', 'Tangled Feet']",39.2,1.4,190,0,21/01/1996
+85,1,Dodrio,Triple Bird Pokemon,normal,flying,"['Run Away', 'Early Bird', 'Tangled Feet']",85.2,1.8,45,0,06/10/1996
+86,1,Seel,Sea Lion Pokemon,water,,"['Thick Fat', 'Hydration', 'Ice Body']",90.0,1.1,190,0,14/05/1996
+87,1,Dewgong,Sea Lion Pokemon,water,ice,"['Thick Fat', 'Hydration', 'Ice Body']",120.0,1.7,75,0,03/09/1996
+88,1,Grimer,Sludge Pokemon,poison,poison,"['Stench', 'Sticky Hold', 'Poison Touch', 'Poison Touch', 'Gluttony', 'Power of Alchemy']",,,190,0,24/01/1996
+89,1,Muk,Sludge Pokemon,poison,poison,"['Stench', 'Sticky Hold', 'Poison Touch', 'Poison Touch', 'Gluttony', 'Power of Alchemy']",,,75,0,12/11/1996
+90,1,Shellder,Bivalve Pokemon,water,,"['Shell Armor', 'Skill Link', 'Overcoat']",4.0,0.3,190,0,23/09/1996
+91,1,Cloyster,Bivalve Pokemon,water,ice,"['Shell Armor', 'Skill Link', 'Overcoat']",132.5,1.5,60,0,05/06/1996
+92,1,Gastly,Gas Pokemon,ghost,poison,"['Levitate']",0.1,1.3,190,0,31/03/1996
+93,1,Haunter,Gas Pokemon,ghost,poison,"['Levitate']",0.1,1.6,90,0,26/11/1996
+94,1,Gengar,Shadow Pokemon,ghost,poison,"['Cursed Body']",40.5,1.5,45,0,28/03/1996
+95,1,Onix,Rock Snake Pokemon,rock,ground,"['Rock Head', 'Sturdy', 'Weak Armor']",210.0,8.8,45,0,28/03/1996
+96,1,Drowzee,Hypnosis Pokemon,psychic,,"['Insomnia', 'Forewarn', 'Inner Focus']",32.4,1.0,190,0,15/12/1996
+97,1,Hypno,Hypnosis Pokemon,psychic,,"['Insomnia', 'Forewarn', 'Inner Focus']",75.6,1.6,75,0,06/03/1996
+98,1,Krabby,River Crab Pokemon,water,,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",6.5,0.4,225,0,11/04/1996
+99,1,Kingler,Pincer Pokemon,water,,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",60.0,1.3,60,0,03/08/1996
+100,1,Voltorb,Ball Pokemon,electric,,"['Soundproof', 'Static', 'Aftermath']",10.4,0.5,190,0,13/09/1996
+101,1,Electrode,Ball Pokemon,electric,,"['Soundproof', 'Static', 'Aftermath']",66.6,1.2,60,0,14/03/1996
+102,1,Exeggcute,Egg Pokemon,grass,psychic,"['Chlorophyll', 'Harvest']",2.5,0.4,90,0,11/07/1996
+103,1,Exeggutor,Coconut Pokemon,grass,psychic,"['Chlorophyll', 'Harvest', 'Frisk', 'Harvest']",,,45,0,30/06/1996
+104,1,Cubone,Lonely Pokemon,ground,,"['Rock Head', 'Lightningrod', 'Battle Armor']",6.5,0.4,190,0,27/04/1996
+105,1,Marowak,Bone Keeper Pokemon,ground,fire,"['Rock Head', 'Lightningrod', 'Battle Armor', 'Cursed Body', 'Lightningrod', 'Rock Head']",,,75,0,29/02/1996
+106,1,Hitmonlee,Kicking Pokemon,fighting,,"['Limber', 'Reckless', 'Unburden']",49.8,1.5,45,0,11/09/1996
+107,1,Hitmonchan,Punching Pokemon,fighting,,"['Keen Eye', 'Iron Fist', 'Inner Focus']",50.2,1.4,45,0,10/10/1996
+108,1,Lickitung,Licking Pokemon,normal,,"['Own Tempo', 'Oblivious', 'Cloud Nine']",65.5,1.2,45,0,10/07/1996
+109,1,Koffing,Poison Gas Pokemon,poison,,"['Levitate']",1.0,0.6,190,0,14/12/1996
+110,1,Weezing,Poison Gas Pokemon,poison,,"['Levitate']",9.5,1.2,60,0,19/03/1996
+111,1,Rhyhorn,Spikes Pokemon,ground,rock,"['Lightningrod', 'Rock Head', 'Reckless']",115.0,1.0,120,0,21/11/1996
+112,1,Rhydon,Drill Pokemon,ground,rock,"['Lightningrod', 'Rock Head', 'Reckless']",120.0,1.9,60,0,28/03/1996
+113,1,Chansey,Egg Pokemon,normal,,"['Natural Cure', 'Serene Grace', 'Healer']",34.6,1.1,30,0,02/06/1996
+114,1,Tangela,Vine Pokemon,grass,,"['Chlorophyll', 'Leaf Guard', 'Regenerator']",35.0,1.0,45,0,30/09/1996
+115,1,Kangaskhan,Parent Pokemon,normal,,"['Early Bird', 'Scrappy', 'Inner Focus']",80.0,2.2,45,0,17/04/1996
+116,1,Horsea,Dragon Pokemon,water,,"['Swift Swim', 'Sniper', 'Damp']",8.0,0.4,225,0,21/04/1996
+117,1,Seadra,Dragon Pokemon,water,,"['Poison Point', 'Sniper', 'Damp']",25.0,1.2,75,0,27/12/1996
+118,1,Goldeen,Goldfish Pokemon,water,,"['Swift Swim', 'Water Veil', 'Lightningrod']",15.0,0.6,225,0,17/12/1996
+119,1,Seaking,Goldfish Pokemon,water,,"['Swift Swim', 'Water Veil', 'Lightningrod']",39.0,1.3,60,0,12/07/1996
+120,1,Staryu,Starshape Pokemon,water,,"['Illuminate', 'Natural Cure', 'Analytic']",34.5,0.8,225,0,06/05/1996
+121,1,Starmie,Mysterious Pokemon,water,psychic,"['Illuminate', 'Natural Cure', 'Analytic']",80.0,1.1,60,0,06/03/1996
+122,1,Mr. Mime,Barrier Pokemon,psychic,fairy,"['Soundproof', 'Filter', 'Technician']",54.5,1.3,45,0,24/09/1996
+123,1,Scyther,Mantis Pokemon,bug,flying,"['Swarm', 'Technician', 'Steadfast']",56.0,1.5,45,0,22/09/1996
+124,1,Jynx,Humanshape Pokemon,ice,psychic,"['Oblivious', 'Forewarn', 'Dry Skin']",40.6,1.4,45,0,17/03/1996
+125,1,Electabuzz,Electric Pokemon,electric,,"['Static', 'Vital Spirit']",30.0,1.1,45,0,03/12/1996
+126,1,Magmar,Spitfire Pokemon,fire,,"['Flame Body', 'Vital Spirit']",44.5,1.3,45,0,16/03/1996
+127,1,Pinsir,Stagbeetle Pokemon,bug,,"['Hyper Cutter', 'Mold Breaker', 'Moxie']",55.0,1.5,45,0,19/03/1996
+128,1,Tauros,Wild Bull Pokemon,normal,,"['Intimidate', 'Anger Point', 'Sheer Force']",88.4,1.4,45,0,02/03/1996
+129,1,Magikarp,Fish Pokemon,water,,"['Swift Swim', 'Rattled']",10.0,0.9,255,0,30/03/1996
+130,1,Gyarados,Atrocious Pokemon,water,flying,"['Intimidate', 'Moxie']",235.0,6.5,45,0,20/01/1996
+131,1,Lapras,Transport Pokemon,water,ice,"['Water Absorb', 'Shell Armor', 'Hydration']",220.0,2.5,45,0,15/04/1996
+132,1,Ditto,Transform Pokemon,normal,,"['Limber', 'Imposter']",4.0,0.3,35,0,15/01/1996
+133,1,Eevee,Evolution Pokemon,normal,,"['Run Away', 'Adaptability', 'Anticipation']",6.5,0.3,45,0,07/04/1996
+134,1,Vaporeon,Bubble Jet Pokemon,water,,"['Water Absorb', 'Hydration']",29.0,1.0,45,0,14/01/1996
+135,1,Jolteon,Lightning Pokemon,electric,,"['Volt Absorb', 'Quick Feet']",24.5,0.8,45,0,01/02/1996
+136,1,Flareon,Flame Pokemon,fire,,"['Flash Fire', 'Guts']",25.0,0.9,45,0,25/05/1996
+137,1,Porygon,Virtual Pokemon,normal,,"['Trace', 'Download', 'Analytic']",36.5,0.8,45,0,06/06/1996
+138,1,Omanyte,Spiral Pokemon,rock,water,"['Swift Swim', 'Shell Armor', 'Weak Armor']",7.5,0.4,45,0,25/07/1996
+139,1,Omastar,Spiral Pokemon,rock,water,"['Swift Swim', 'Shell Armor', 'Weak Armor']",35.0,1.0,45,0,12/06/1996
+140,1,Kabuto,Shellfish Pokemon,rock,water,"['Swift Swim', 'Battle Armor', 'Weak Armor']",11.5,0.5,45,0,08/09/1996
+141,1,Kabutops,Shellfish Pokemon,rock,water,"['Swift Swim', 'Battle Armor', 'Weak Armor']",40.5,1.3,45,0,30/09/1996
+142,1,Aerodactyl,Fossil Pokemon,rock,flying,"['Rock Head', 'Pressure', 'Unnerve']",59.0,1.8,45,0,22/02/1996
+143,1,Snorlax,Sleeping Pokemon,normal,,"['Immunity', 'Thick Fat', 'Gluttony']",460.0,2.1,25,0,25/07/1996
+144,1,Articuno,Freeze Pokemon,ice,flying,"['Pressure', 'Snow Cloak']",55.4,1.7,3,1,01/11/1996
+145,1,Zapdos,Electric Pokemon,electric,flying,"['Pressure', 'Static']",52.6,1.6,3,1,08/07/1996
+146,1,Moltres,Flame Pokemon,fire,flying,"['Pressure', 'Flame Body']",60.0,2.0,3,1,22/04/1996
+147,1,Dratini,Dragon Pokemon,dragon,,"['Shed Skin', 'Marvel Scale']",3.3,1.8,45,0,12/09/1996
+148,1,Dragonair,Dragon Pokemon,dragon,,"['Shed Skin', 'Marvel Scale']",16.5,4.0,45,0,02/06/1996
+149,1,Dragonite,Dragon Pokemon,dragon,flying,"['Inner Focus', 'Multiscale']",210.0,2.2,45,0,21/01/1996
+150,1,Mewtwo,Genetic Pokemon,psychic,,"['Pressure', 'Unnerve']",122.0,2.0,3,1,19/03/1996
+151,1,Mew,New Species Pokemon,psychic,,"['Synchronize']",4.0,0.4,45,1,21/08/2001
+152,2,Chikorita,Leaf Pokemon,grass,,"['Overgrow', 'Leaf Guard']",6.4,0.9,45,0,03/07/1999
+153,2,Bayleef,Leaf Pokemon,grass,,"['Overgrow', 'Leaf Guard']",15.8,1.2,45,0,17/10/1999
+154,2,Meganium,Herb Pokemon,grass,,"['Overgrow', 'Leaf Guard']",100.5,1.8,45,0,24/01/1999
+155,2,Cyndaquil,Fire Mouse Pokemon,fire,,"['Blaze', 'Flash Fire']",7.9,0.5,45,0,05/04/1999
+156,2,Quilava,Volcano Pokemon,fire,,"['Blaze', 'Flash Fire']",19.0,0.9,45,0,11/11/1999
+157,2,Typhlosion,Volcano Pokemon,fire,,"['Blaze', 'Flash Fire']",79.5,1.7,45,0,29/01/1999
+158,2,Totodile,Big Jaw Pokemon,water,,"['Torrent', 'Sheer Force']",9.5,0.6,45,0,26/01/1999
+159,2,Croconaw,Big Jaw Pokemon,water,,"['Torrent', 'Sheer Force']",25.0,1.1,45,0,07/11/1999
+160,2,Feraligatr,Big Jaw Pokemon,water,,"['Torrent', 'Sheer Force']",88.8,2.3,45,0,26/09/1999
+161,2,Sentret,Scout Pokemon,normal,,"['Run Away', 'Keen Eye', 'Frisk']",6.0,0.8,255,0,09/10/1999
+162,2,Furret,Long Body Pokemon,normal,,"['Run Away', 'Keen Eye', 'Frisk']",32.5,1.8,90,0,14/11/1999
+163,2,Hoothoot,Owl Pokemon,normal,flying,"['Insomnia', 'Keen Eye', 'Tinted Lens']",21.2,0.7,255,0,13/12/1999
+164,2,Noctowl,Owl Pokemon,normal,flying,"['Insomnia', 'Keen Eye', 'Tinted Lens']",40.8,1.6,90,0,23/07/1999
+165,2,Ledyba,Five Star Pokemon,bug,flying,"['Swarm', 'Early Bird', 'Rattled']",10.8,1.0,255,0,17/11/1999
+166,2,Ledian,Five Star Pokemon,bug,flying,"['Swarm', 'Early Bird', 'Iron Fist']",35.6,1.4,90,0,19/09/1999
+167,2,Spinarak,String Spit Pokemon,bug,poison,"['Swarm', 'Insomnia', 'Sniper']",8.5,0.5,255,0,04/03/1999
+168,2,Ariados,Long Leg Pokemon,bug,poison,"['Swarm', 'Insomnia', 'Sniper']",33.5,1.1,90,0,29/09/1999
+169,2,Crobat,Bat Pokemon,poison,flying,"['Inner Focus', 'Infiltrator']",75.0,1.8,90,0,23/10/1999
+170,2,Chinchou,Angler Pokemon,water,electric,"['Volt Absorb', 'Illuminate', 'Water Absorb']",12.0,0.5,190,0,19/10/1999
+171,2,Lanturn,Light Pokemon,water,electric,"['Volt Absorb', 'Illuminate', 'Water Absorb']",22.5,1.2,75,0,04/08/1999
+172,2,Pichu,Tiny Mouse Pokemon,electric,,"['Static', 'Lightningrod']",2.0,0.3,190,0,19/07/1999
+173,2,Cleffa,Star Shape Pokemon,fairy,,"['Cute Charm', 'Magic Guard', 'Friend Guard']",3.0,0.3,150,0,11/09/1999
+174,2,Igglybuff,Balloon Pokemon,normal,fairy,"['Cute Charm', 'Competitive', 'Friend Guard']",1.0,0.3,170,0,05/04/1999
+175,2,Togepi,Spike Ball Pokemon,fairy,,"['Hustle', 'Serene Grace', 'Super Luck']",1.5,0.3,190,0,24/07/1999
+176,2,Togetic,Happiness Pokemon,fairy,flying,"['Hustle', 'Serene Grace', 'Super Luck']",3.2,0.6,75,0,07/11/1999
+177,2,Natu,Little Bird Pokemon,psychic,flying,"['Synchronize', 'Early Bird', 'Magic Bounce']",2.0,0.2,190,0,20/03/1999
+178,2,Xatu,Mystic Pokemon,psychic,flying,"['Synchronize', 'Early Bird', 'Magic Bounce']",15.0,1.5,75,0,15/08/1999
+179,2,Mareep,Wool Pokemon,electric,,"['Static', 'Plus']",7.8,0.6,235,0,06/03/1999
+180,2,Flaaffy,Wool Pokemon,electric,,"['Static', 'Plus']",13.3,0.8,120,0,12/09/1999
+181,2,Ampharos,Light Pokemon,electric,,"['Static', 'Plus']",61.5,1.4,45,0,25/05/1999
+182,2,Bellossom,Flower Pokemon,grass,,"['Chlorophyll', 'Healer']",5.8,0.4,45,0,31/05/1999
+183,2,Marill,Aquamouse Pokemon,water,fairy,"['Thick Fat', 'Huge Power', 'Sap Sipper']",8.5,0.4,190,0,01/05/1999
+184,2,Azumarill,Aquarabbit Pokemon,water,fairy,"['Thick Fat', 'Huge Power', 'Sap Sipper']",28.5,0.8,75,0,08/07/1999
+185,2,Sudowoodo,Imitation Pokemon,rock,,"['Sturdy', 'Rock Head', 'Rattled']",38.0,1.2,65,0,26/08/1999
+186,2,Politoed,Frog Pokemon,water,,"['Water Absorb', 'Damp', 'Drizzle']",33.9,1.1,45,0,06/07/1999
+187,2,Hoppip,Cottonweed Pokemon,grass,flying,"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",0.5,0.4,255,0,02/10/1999
+188,2,Skiploom,Cottonweed Pokemon,grass,flying,"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",1.0,0.6,120,0,17/08/1999
+189,2,Jumpluff,Cottonweed Pokemon,grass,flying,"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",3.0,0.8,45,0,15/05/1999
+190,2,Aipom,Long Tail Pokemon,normal,,"['Run Away', 'Pickup', 'Skill Link']",11.5,0.8,45,0,31/10/1999
+191,2,Sunkern,Seed Pokemon,grass,,"['Chlorophyll', 'Solar Power', 'Early Bird']",1.8,0.3,235,0,15/02/1999
+192,2,Sunflora,Sun Pokemon,grass,,"['Chlorophyll', 'Solar Power', 'Early Bird']",8.5,0.8,120,0,06/01/1999
+193,2,Yanma,Clear Wing Pokemon,bug,flying,"['Speed Boost', 'Compoundeyes', 'Frisk']",38.0,1.2,75,0,21/11/1999
+194,2,Wooper,Water Fish Pokemon,water,ground,"['Damp', 'Water Absorb', 'Unaware']",8.5,0.4,255,0,27/05/1999
+195,2,Quagsire,Water Fish Pokemon,water,ground,"['Damp', 'Water Absorb', 'Unaware']",75.0,1.4,90,0,15/12/1999
+196,2,Espeon,Sun Pokemon,psychic,,"['Synchronize', 'Magic Bounce']",26.5,0.9,45,0,13/06/1999
+197,2,Umbreon,Moonlight Pokemon,dark,,"['Synchronize', 'Inner Focus']",27.0,1.0,45,0,03/01/1999
+198,2,Murkrow,Darkness Pokemon,dark,flying,"['Insomnia', 'Super Luck', 'Prankster']",2.1,0.5,30,0,08/09/1999
+199,2,Slowking,Royal Pokemon,water,psychic,"['Oblivious', 'Own Tempo', 'Regenerator']",79.5,2.0,70,0,19/04/1999
+200,2,Misdreavus,Screech Pokemon,ghost,,"['Levitate']",1.0,0.7,45,0,20/03/1999
+201,2,Unown,Symbol Pokemon,psychic,,"['Levitate']",5.0,0.5,225,0,17/01/1999
+202,2,Wobbuffet,Patient Pokemon,psychic,,"['Shadow Tag', 'Telepathy']",28.5,1.3,45,0,03/07/1999
+203,2,Girafarig,Long Neck Pokemon,normal,psychic,"['Inner Focus', 'Early Bird', 'Sap Sipper']",41.5,1.5,60,0,25/01/1999
+204,2,Pineco,Bagworm Pokemon,bug,,"['Sturdy', 'Overcoat']",7.2,0.6,190,0,16/07/1999
+205,2,Forretress,Bagworm Pokemon,bug,steel,"['Sturdy', 'Overcoat']",125.8,1.2,75,0,18/07/1999
+206,2,Dunsparce,Land Snake Pokemon,normal,,"['Serene Grace', 'Run Away', 'Rattled']",14.0,1.5,190,0,08/01/1999
+207,2,Gligar,Flyscorpion Pokemon,ground,flying,"['Hyper Cutter', 'Sand Veil', 'Immunity']",64.8,1.1,60,0,25/04/1999
+208,2,Steelix,Iron Snake Pokemon,steel,ground,"['Rock Head', 'Sturdy', 'Sheer Force']",400.0,9.2,25,0,03/11/1999
+209,2,Snubbull,Fairy Pokemon,fairy,,"['Intimidate', 'Run Away', 'Rattled']",7.8,0.6,190,0,30/07/1999
+210,2,Granbull,Fairy Pokemon,fairy,,"['Intimidate', 'Quick Feet', 'Rattled']",48.7,1.4,75,0,22/07/1999
+211,2,Qwilfish,Balloon Pokemon,water,poison,"['Poison Point', 'Swift Swim', 'Intimidate']",3.9,0.5,45,0,17/11/1999
+212,2,Scizor,Pincer Pokemon,bug,steel,"['Swarm', 'Technician', 'Light Metal']",118.0,1.8,25,0,28/08/1999
+213,2,Shuckle,Mold Pokemon,bug,rock,"['Sturdy', 'Gluttony', 'Contrary']",20.5,0.6,190,0,24/07/1999
+214,2,Heracross,Singlehorn Pokemon,bug,fighting,"['Swarm', 'Guts', 'Moxie']",54.0,1.5,45,0,24/09/1999
+215,2,Sneasel,Sharp Claw Pokemon,dark,ice,"['Inner Focus', 'Keen Eye', 'Pickpocket']",28.0,0.9,60,0,27/04/1999
+216,2,Teddiursa,Little Bear Pokemon,normal,,"['Pickup', 'Quick Feet', 'Honey Gather']",8.8,0.6,120,0,25/04/1999
+217,2,Ursaring,Hibernator Pokemon,normal,,"['Guts', 'Quick Feet', 'Unnerve']",125.8,1.8,60,0,15/08/1999
+218,2,Slugma,Lava Pokemon,fire,,"['Magma Armor', 'Flame Body', 'Weak Armor']",35.0,0.7,190,0,01/02/1999
+219,2,Magcargo,Lava Pokemon,fire,rock,"['Magma Armor', 'Flame Body', 'Weak Armor']",55.0,0.8,75,0,14/02/1999
+220,2,Swinub,Pig Pokemon,ice,ground,"['Oblivious', 'Snow Cloak', 'Thick Fat']",6.5,0.4,225,0,30/05/1999
+221,2,Piloswine,Swine Pokemon,ice,ground,"['Oblivious', 'Snow Cloak', 'Thick Fat']",55.8,1.1,75,0,20/09/1999
+222,2,Corsola,Coral Pokemon,water,rock,"['Hustle', 'Natural Cure', 'Regenerator']",5.0,0.6,60,0,07/07/1999
+223,2,Remoraid,Jet Pokemon,water,,"['Hustle', 'Sniper', 'Moody']",12.0,0.6,190,0,28/12/1999
+224,2,Octillery,Jet Pokemon,water,,"['Suction Cups', 'Sniper', 'Moody']",28.5,0.9,75,0,05/11/1999
+225,2,Delibird,Delivery Pokemon,ice,flying,"['Vital Spirit', 'Hustle', 'Insomnia']",16.0,0.9,45,0,03/05/1999
+226,2,Mantine,Kite Pokemon,water,flying,"['Swift Swim', 'Water Absorb', 'Water Veil']",220.0,2.1,25,0,11/08/1999
+227,2,Skarmory,Armor Bird Pokemon,steel,flying,"['Keen Eye', 'Sturdy', 'Weak Armor']",50.5,1.7,25,0,04/05/1999
+228,2,Houndour,Dark Pokemon,dark,fire,"['Early Bird', 'Flash Fire', 'Unnerve']",10.8,0.6,120,0,01/10/1999
+229,2,Houndoom,Dark Pokemon,dark,fire,"['Early Bird', 'Flash Fire', 'Unnerve']",35.0,1.4,45,0,23/12/1999
+230,2,Kingdra,Dragon Pokemon,water,dragon,"['Swift Swim', 'Sniper', 'Damp']",152.0,1.8,45,0,05/08/1999
+231,2,Phanpy,Long Nose Pokemon,ground,,"['Pickup', 'Sand Veil']",33.5,0.5,120,0,02/12/1999
+232,2,Donphan,Armor Pokemon,ground,,"['Sturdy', 'Sand Veil']",120.0,1.1,60,0,01/04/1999
+233,2,Porygon2,Virtual Pokemon,normal,,"['Trace', 'Download', 'Analytic']",32.5,0.6,45,0,27/04/1999
+234,2,Stantler,Big Horn Pokemon,normal,,"['Intimidate', 'Frisk', 'Sap Sipper']",71.2,1.4,45,0,21/11/1999
+235,2,Smeargle,Painter Pokemon,normal,,"['Own Tempo', 'Technician', 'Moody']",58.0,1.2,45,0,26/04/1999
+236,2,Tyrogue,Scuffle Pokemon,fighting,,"['Guts', 'Steadfast', 'Vital Spirit']",21.0,0.7,75,0,10/09/1999
+237,2,Hitmontop,Handstand Pokemon,fighting,,"['Intimidate', 'Technician', 'Steadfast']",48.0,1.4,45,0,09/06/1999
+238,2,Smoochum,Kiss Pokemon,ice,psychic,"['Oblivious', 'Forewarn', 'Hydration']",6.0,0.4,45,0,19/01/1999
+239,2,Elekid,Electric Pokemon,electric,,"['Static', 'Vital Spirit']",23.5,0.6,45,0,13/04/1999
+240,2,Magby,Live Coal Pokemon,fire,,"['Flame Body', 'Vital Spirit']",21.4,0.7,45,0,11/10/1999
+241,2,Miltank,Milk Cow Pokemon,normal,,"['Thick Fat', 'Scrappy', 'Sap Sipper']",75.5,1.2,45,0,13/07/1999
+242,2,Blissey,Happiness Pokemon,normal,,"['Natural Cure', 'Serene Grace', 'Healer']",46.8,1.5,30,0,18/07/1999
+243,2,Raikou,Thunder Pokemon,electric,,"['Pressure', 'Inner Focus']",178.0,1.9,3,1,28/12/1999
+244,2,Entei,Volcano Pokemon,fire,,"['Pressure', 'Inner Focus']",198.0,2.1,3,1,05/07/1999
+245,2,Suicune,Aurora Pokemon,water,,"['Pressure', 'Inner Focus']",187.0,2.0,3,1,24/08/1999
+246,2,Larvitar,Rock Skin Pokemon,rock,ground,"['Guts', 'Sand Veil']",72.0,0.6,45,0,01/10/1999
+247,2,Pupitar,Hard Shell Pokemon,rock,ground,"['Shed Skin']",152.0,1.2,45,0,24/08/1999
+248,2,Tyranitar,Armor Pokemon,rock,dark,"['Sand Stream', 'Unnerve']",202.0,2.0,45,0,27/10/1999
+249,2,Lugia,Diving Pokemon,psychic,flying,"['Pressure', 'Multiscale']",216.0,5.2,3,1,12/11/1999
+250,2,Ho-Oh,Rainbow Pokemon,fire,flying,"['Pressure', 'Regenerator']",199.0,3.8,3,1,19/08/1999
+251,2,Celebi,Time Travel Pokemon,psychic,grass,"['Natural Cure']",5.0,0.6,45,1,29/06/1999
+252,3,Treecko,Wood Gecko Pokemon,grass,,"['Overgrow', 'Unburden']",5.0,0.5,45,0,19/01/2002
+253,3,Grovyle,Wood Gecko Pokemon,grass,,"['Overgrow', 'Unburden']",21.6,0.9,45,0,24/07/2002
+254,3,Sceptile,Forest Pokemon,grass,,"['Overgrow', 'Unburden']",52.2,1.7,45,0,19/11/2002
+255,3,Torchic,Chick Pokemon,fire,,"['Blaze', 'Speed Boost']",2.5,0.4,45,0,22/03/2002
+256,3,Combusken,Young Fowl Pokemon,fire,fighting,"['Blaze', 'Speed Boost']",19.5,0.9,45,0,13/06/2002
+257,3,Blaziken,Blaze Pokemon,fire,fighting,"['Blaze', 'Speed Boost']",52.0,1.9,45,0,29/04/2002
+258,3,Mudkip,Mud Fish Pokemon,water,,"['Torrent', 'Damp']",7.6,0.4,45,0,23/11/2002
+259,3,Marshtomp,Mud Fish Pokemon,water,ground,"['Torrent', 'Damp']",28.0,0.7,45,0,17/08/2002
+260,3,Swampert,Mud Fish Pokemon,water,ground,"['Torrent', 'Damp']",81.9,1.5,45,0,18/08/2002
+261,3,Poochyena,Bite Pokemon,dark,,"['Run Away', 'Quick Feet', 'Rattled']",13.6,0.5,255,0,26/07/2002
+262,3,Mightyena,Bite Pokemon,dark,,"['Intimidate', 'Quick Feet', 'Moxie']",37.0,1.0,127,0,20/07/2002
+263,3,Zigzagoon,Tiny Racoon Pokemon,normal,,"['Pickup', 'Gluttony', 'Quick Feet']",17.5,0.4,255,0,06/10/2002
+264,3,Linoone,Rush Pokemon,normal,,"['Pickup', 'Gluttony', 'Quick Feet']",32.5,0.5,90,0,02/07/2002
+265,3,Wurmple,Worm Pokemon,bug,,"['Shield Dust', 'Run Away']",3.6,0.3,255,0,15/08/2002
+266,3,Silcoon,Cocoon Pokemon,bug,,"['Shed Skin']",10.0,0.6,120,0,26/08/2002
+267,3,Beautifly,Butterfly Pokemon,bug,flying,"['Swarm', 'Rivalry']",28.4,1.0,45,0,20/02/2002
+268,3,Cascoon,Cocoon Pokemon,bug,,"['Shed Skin']",11.5,0.7,120,0,12/05/2002
+269,3,Dustox,Poison Moth Pokemon,bug,poison,"['Shield Dust', 'Compoundeyes']",31.6,1.2,45,0,18/12/2002
+270,3,Lotad,Water Weed Pokemon,water,grass,"['Swift Swim', 'Rain Dish', 'Own Tempo']",2.6,0.5,255,0,03/04/2002
+271,3,Lombre,Jolly Pokemon,water,grass,"['Swift Swim', 'Rain Dish', 'Own Tempo']",32.5,1.2,120,0,17/07/2002
+272,3,Ludicolo,Carefree Pokemon,water,grass,"['Swift Swim', 'Rain Dish', 'Own Tempo']",55.0,1.5,45,0,09/02/2002
+273,3,Seedot,Acorn Pokemon,grass,,"['Chlorophyll', 'Early Bird', 'Pickpocket']",4.0,0.5,255,0,22/08/2002
+274,3,Nuzleaf,Wily Pokemon,grass,dark,"['Chlorophyll', 'Early Bird', 'Pickpocket']",28.0,1.0,120,0,01/06/2002
+275,3,Shiftry,Wickid Pokemon,grass,dark,"['Chlorophyll', 'Early Bird', 'Pickpocket']",59.6,1.3,45,0,19/10/2002
+276,3,Taillow,TinySwallow Pokemon,normal,flying,"['Guts', 'Scrappy']",2.3,0.3,200,0,15/12/2002
+277,3,Swellow,Swallow Pokemon,normal,flying,"['Guts', 'Scrappy']",19.8,0.7,45,0,16/03/2002
+278,3,Wingull,Seagull Pokemon,water,flying,"['Keen Eye', 'Hydration', 'Rain Dish']",9.5,0.6,190,0,28/10/2002
+279,3,Pelipper,Water Bird Pokemon,water,flying,"['Keen Eye', 'Drizzle', 'Rain Dish']",28.0,1.2,45,0,16/02/2002
+280,3,Ralts,Feeling Pokemon,psychic,fairy,"['Synchronize', 'Trace', 'Telepathy']",6.6,0.4,235,0,27/11/2002
+281,3,Kirlia,Emotion Pokemon,psychic,fairy,"['Synchronize', 'Trace', 'Telepathy']",20.2,0.8,120,0,18/01/2002
+282,3,Gardevoir,Embrace Pokemon,psychic,fairy,"['Synchronize', 'Trace', 'Telepathy']",48.4,1.6,45,0,17/08/2002
+283,3,Surskit,Pond Skater Pokemon,bug,water,"['Swift Swim', 'Rain Dish']",1.7,0.5,200,0,25/01/2002
+284,3,Masquerain,Eyeball Pokemon,bug,flying,"['Intimidate', 'Unnerve']",3.6,0.8,75,0,05/12/2002
+285,3,Shroomish,Mushroom Pokemon,grass,,"['Effect Spore', 'Poison Heal', 'Quick Feet']",4.5,0.4,255,0,12/06/2002
+286,3,Breloom,Mushroom Pokemon,grass,fighting,"['Effect Spore', 'Poison Heal', 'Technician']",39.2,1.2,90,0,19/07/2002
+287,3,Slakoth,Slacker Pokemon,normal,,"['Truant']",24.0,0.8,255,0,23/08/2002
+288,3,Vigoroth,Wild Monkey Pokemon,normal,,"['Vital Spirit']",46.5,1.4,120,0,07/08/2002
+289,3,Slaking,Lazy Pokemon,normal,,"['Truant']",130.5,2.0,45,0,17/05/2002
+290,3,Nincada,Trainee Pokemon,bug,ground,"['Compoundeyes', 'Run Away']",5.5,0.5,255,0,02/06/2002
+291,3,Ninjask,Ninja Pokemon,bug,flying,"['Speed Boost', 'Infiltrator']",12.0,0.8,120,0,09/08/2002
+292,3,Shedinja,Shed Pokemon,bug,ghost,"['Wonder Guard']",1.2,0.8,45,0,25/03/2002
+293,3,Whismur,Whisper Pokemon,normal,,"['Soundproof', 'Rattled']",16.3,0.6,190,0,23/12/2002
+294,3,Loudred,Big Voice Pokemon,normal,,"['Soundproof', 'Scrappy']",40.5,1.0,120,0,08/01/2002
+295,3,Exploud,Loud Noise Pokemon,normal,,"['Soundproof', 'Scrappy']",84.0,1.5,45,0,11/12/2002
+296,3,Makuhita,Guts Pokemon,fighting,,"['Thick Fat', 'Guts', 'Sheer Force']",86.4,1.0,180,0,21/02/2002
+297,3,Hariyama,Arm Thrust Pokemon,fighting,,"['Thick Fat', 'Guts', 'Sheer Force']",253.8,2.3,200,0,21/01/2002
+298,3,Azurill,Polka Dot Pokemon,normal,fairy,"['Thick Fat', 'Huge Power', 'Sap Sipper']",2.0,0.2,150,0,01/06/2002
+299,3,Nosepass,Compass Pokemon,rock,,"['Sturdy', 'Magnet Pull', 'Sand Force']",97.0,1.0,255,0,13/09/2002
+300,3,Skitty,Kitten Pokemon,normal,,"['Cute Charm', 'Normalize', 'Wonder Skin ']",11.0,0.6,255,0,24/06/2002
+301,3,Delcatty,Prim Pokemon,normal,,"['Cute Charm', 'Normalize', 'Wonder Skin ']",32.6,1.1,60,0,01/04/2002
+302,3,Sableye,Darkness Pokemon,dark,ghost,"['Keen Eye', 'Stall', 'Prankster']",11.0,0.5,45,0,11/05/2002
+303,3,Mawile,Deceiver Pokemon,steel,fairy,"['Hyper Cutter', 'Intimidate', 'Sheer Force']",11.5,0.6,45,0,28/08/2002
+304,3,Aron,Iron Armor Pokemon,steel,rock,"['Sturdy', 'Rock Head', 'Heavy Metal']",60.0,0.4,180,0,30/12/2002
+305,3,Lairon,Iron Armor Pokemon,steel,rock,"['Sturdy', 'Rock Head', 'Heavy Metal']",120.0,0.9,90,0,01/05/2002
+306,3,Aggron,Iron Armor Pokemon,steel,rock,"['Sturdy', 'Rock Head', 'Heavy Metal']",360.0,2.1,45,0,21/01/2002
+307,3,Meditite,Meditate Pokemon,fighting,psychic,"['Pure Power', 'Telepathy']",11.2,0.6,180,0,15/10/2002
+308,3,Medicham,Meditate Pokemon,fighting,psychic,"['Pure Power', 'Telepathy']",31.5,1.3,90,0,09/10/2002
+309,3,Electrike,Lightning Pokemon,electric,,"['Static', 'Lightningrod', 'Minus']",15.2,0.6,120,0,03/07/2002
+310,3,Manectric,Discharge Pokemon,electric,,"['Static', 'Lightningrod', 'Minus']",40.2,1.5,45,0,25/09/2002
+311,3,Plusle,Cheering Pokemon,electric,,"['Plus', 'Lightningrod']",4.2,0.4,200,0,01/11/2002
+312,3,Minun,Cheering Pokemon,electric,,"['Minus', 'Volt Absorb']",4.2,0.4,200,0,09/02/2002
+313,3,Volbeat,Firefly Pokemon,bug,,"['Illuminate', 'Swarm', 'Prankster']",17.7,0.7,150,0,07/05/2002
+314,3,Illumise,Firefly Pokemon,bug,,"['Oblivious', 'Tinted Lens', 'Prankster']",17.7,0.6,150,0,02/10/2002
+315,3,Roselia,Thorn Pokemon,grass,poison,"['Natural Cure', 'Poison Point', 'Leaf Guard']",2.0,0.3,150,0,09/10/2002
+316,3,Gulpin,Stomach Pokemon,poison,,"['Liquid Ooze', 'Sticky Hold', 'Gluttony']",10.3,0.4,225,0,13/12/2002
+317,3,Swalot,Poison Bag Pokemon,poison,,"['Liquid Ooze', 'Sticky Hold', 'Gluttony']",80.0,1.7,75,0,16/03/2002
+318,3,Carvanha,Savage Pokemon,water,dark,"['Rough Skin', 'Speed Boost']",20.8,0.8,225,0,09/08/2002
+319,3,Sharpedo,Brutal Pokemon,water,dark,"['Rough Skin', 'Speed Boost']",88.8,1.8,60,0,23/08/2002
+320,3,Wailmer,Ball Whale Pokemon,water,,"['Water Veil', 'Oblivious', 'Pressure']",130.0,2.0,125,0,14/01/2002
+321,3,Wailord,Float Whale Pokemon,water,,"['Water Veil', 'Oblivious', 'Pressure']",398.0,14.5,60,0,11/05/2002
+322,3,Numel,Numb Pokemon,fire,ground,"['Oblivious', 'Simple', 'Own Tempo']",24.0,0.7,255,0,22/11/2002
+323,3,Camerupt,Eruption Pokemon,fire,ground,"['Magma Armor', 'Solid Rock', 'Anger Point']",220.0,1.9,150,0,18/08/2002
+324,3,Torkoal,Coal Pokemon,fire,,"['White Smoke', 'Drought', 'Shell Armor']",80.4,0.5,90,0,30/05/2002
+325,3,Spoink,Bounce Pokemon,psychic,,"['Thick Fat', 'Own Tempo', 'Gluttony']",30.6,0.7,255,0,01/11/2002
+326,3,Grumpig,Manipulate Pokemon,psychic,,"['Thick Fat', 'Own Tempo', 'Gluttony']",71.5,0.9,60,0,23/12/2002
+327,3,Spinda,Spot Panda Pokemon,normal,,"['Own Tempo', 'Tangled Feet', 'Contrary']",5.0,1.1,255,0,09/11/2002
+328,3,Trapinch,Ant Pit Pokemon,ground,,"['Hyper Cutter', 'Arena Trap', 'Sheer Force']",15.0,0.7,255,0,23/04/2002
+329,3,Vibrava,Vibration Pokemon,ground,dragon,"['Levitate']",15.3,1.1,120,0,29/04/2002
+330,3,Flygon,Mystic Pokemon,ground,dragon,"['Levitate']",82.0,2.0,45,0,22/05/2002
+331,3,Cacnea,Cactus Pokemon,grass,,"['Sand Veil', 'Water Absorb']",51.3,0.4,190,0,05/11/2002
+332,3,Cacturne,Scarecrow Pokemon,grass,dark,"['Sand Veil', 'Water Absorb']",77.4,1.3,60,0,22/10/2002
+333,3,Swablu,Cotton Bird Pokemon,normal,flying,"['Natural Cure', 'Cloud Nine']",1.2,0.4,255,0,03/06/2002
+334,3,Altaria,Humming Pokemon,dragon,flying,"['Natural Cure', 'Cloud Nine']",20.6,1.1,45,0,23/12/2002
+335,3,Zangoose,Cat Ferret Pokemon,normal,,"['Immunity', 'Toxic Boost']",40.3,1.3,90,0,10/07/2002
+336,3,Seviper,Fang Snake Pokemon,poison,,"['Shed Skin', 'Infiltrator']",52.5,2.7,90,0,14/10/2002
+337,3,Lunatone,Meteorite Pokemon,rock,psychic,"['Levitate']",168.0,1.0,45,0,25/02/2002
+338,3,Solrock,Meteorite Pokemon,rock,psychic,"['Levitate']",154.0,1.2,45,0,21/12/2002
+339,3,Barboach,Whiskers Pokemon,water,ground,"['Oblivious', 'Anticipation', 'Hydration']",1.9,0.4,190,0,28/02/2002
+340,3,Whiscash,Whiskers Pokemon,water,ground,"['Oblivious', 'Anticipation', 'Hydration']",23.6,0.9,75,0,29/08/2002
+341,3,Corphish,Ruffian Pokemon,water,,"['Hyper Cutter', 'Shell Armor', 'Adaptability']",11.5,0.6,205,0,05/12/2002
+342,3,Crawdaunt,Rogue Pokemon,water,dark,"['Hyper Cutter', 'Shell Armor', 'Adaptability']",32.8,1.1,155,0,28/12/2002
+343,3,Baltoy,Clay Doll Pokemon,ground,psychic,"['Levitate']",21.5,0.5,255,0,19/04/2002
+344,3,Claydol,Clay Doll Pokemon,ground,psychic,"['Levitate']",108.0,1.5,90,0,30/03/2002
+345,3,Lileep,Sea Lily Pokemon,rock,grass,"['Suction Cups', 'Storm Drain']",23.8,1.0,45,0,15/12/2002
+346,3,Cradily,Barnacle Pokemon,rock,grass,"['Suction Cups', 'Storm Drain']",60.4,1.5,45,0,24/07/2002
+347,3,Anorith,Old Shrimp Pokemon,rock,bug,"['Battle Armor', 'Swift Swim']",12.5,0.7,45,0,19/07/2002
+348,3,Armaldo,Plate Pokemon,rock,bug,"['Battle Armor', 'Swift Swim']",68.2,1.5,45,0,29/12/2002
+349,3,Feebas,Fish Pokemon,water,,"['Swift Swim', 'Oblivious', 'Adaptability']",7.4,0.6,255,0,29/07/2002
+350,3,Milotic,Tender Pokemon,water,,"['Marvel Scale', 'Competitive', 'Cute Charm']",162.0,6.2,60,0,05/09/2002
+351,3,Castform,Weather Pokemon,normal,,"['Forecast']",0.8,0.3,45,0,12/11/2002
+352,3,Kecleon,Color Swap Pokemon,normal,,"['Color Change', 'Protean']",22.0,1.0,200,0,03/10/2002
+353,3,Shuppet,Puppet Pokemon,ghost,,"['Insomnia', 'Frisk', 'Cursed Body']",2.3,0.6,225,0,21/04/2002
+354,3,Banette,Marionette Pokemon,ghost,,"['Insomnia', 'Frisk', 'Cursed Body']",12.5,1.1,45,0,15/04/2002
+355,3,Duskull,Requiem Pokemon,ghost,,"['Levitate', 'Frisk']",15.0,0.8,190,0,12/12/2002
+356,3,Dusclops,Beckon Pokemon,ghost,,"['Pressure', 'Frisk']",30.6,1.6,90,0,29/01/2002
+357,3,Tropius,Fruit Pokemon,grass,flying,"['Chlorophyll', 'Solar Power', 'Harvest']",100.0,2.0,200,0,15/09/2002
+358,3,Chimecho,Wind Chime Pokemon,psychic,,"['Levitate']",1.0,0.6,45,0,30/01/2002
+359,3,Absol,Disaster Pokemon,dark,,"['Pressure', 'Super Luck', 'Justified']",47.0,1.2,30,0,28/08/2002
+360,3,Wynaut,Bright Pokemon,psychic,,"['Shadow Tag', 'Telepathy']",14.0,0.6,125,0,05/03/2002
+361,3,Snorunt,Snow Hat Pokemon,ice,,"['Inner Focus', 'Ice Body', 'Moody']",16.8,0.7,190,0,27/05/2002
+362,3,Glalie,Face Pokemon,ice,,"['Inner Focus', 'Ice Body', 'Moody']",256.5,1.5,75,0,17/11/2002
+363,3,Spheal,Clap Pokemon,ice,water,"['Thick Fat', 'Ice Body', 'Oblivious']",39.5,0.8,255,0,05/11/2002
+364,3,Sealeo,Ball Roll Pokemon,ice,water,"['Thick Fat', 'Ice Body', 'Oblivious']",87.6,1.1,120,0,05/12/2002
+365,3,Walrein,Ice Break Pokemon,ice,water,"['Thick Fat', 'Ice Body', 'Oblivious']",150.6,1.4,45,0,13/03/2002
+366,3,Clamperl,Bivalve Pokemon,water,,"['Shell Armor', 'Rattled']",52.5,0.4,255,0,25/10/2002
+367,3,Huntail,Deep Sea Pokemon,water,,"['Swift Swim', 'Water Veil']",27.0,1.7,60,0,30/10/2002
+368,3,Gorebyss,South Sea Pokemon,water,,"['Swift Swim', 'Hydration']",22.6,1.8,60,0,31/10/2002
+369,3,Relicanth,Longevity Pokemon,water,rock,"['Swift Swim', 'Rock Head', 'Sturdy']",23.4,1.0,25,0,27/12/2002
+370,3,Luvdisc,Rendezvous Pokemon,water,,"['Swift Swim', 'Hydration']",8.7,0.6,225,0,13/11/2002
+371,3,Bagon,Rock Head Pokemon,dragon,,"['Rock Head', 'Sheer Force']",42.1,0.6,45,0,05/06/2002
+372,3,Shelgon,Endurance Pokemon,dragon,,"['Rock Head', 'Overcoat']",110.5,1.1,45,0,22/02/2002
+373,3,Salamence,Dragon Pokemon,dragon,flying,"['Intimidate', 'Moxie']",102.6,1.5,45,0,11/03/2002
+374,3,Beldum,Iron Ball Pokemon,steel,psychic,"['Clear Body', 'Light Metal']",95.2,0.6,3,0,13/07/2002
+375,3,Metang,Iron Claw Pokemon,steel,psychic,"['Clear Body', 'Light Metal']",202.5,1.2,3,0,08/01/2002
+376,3,Metagross,Iron Leg Pokemon,steel,psychic,"['Clear Body', 'Light Metal']",550.0,1.6,3,0,27/01/2002
+377,3,Regirock,Rock Peak Pokemon,rock,,"['Clear Body', 'Sturdy']",230.0,1.7,3,1,16/12/2002
+378,3,Regice,Iceberg Pokemon,ice,,"['Clear Body', 'Ice Body']",175.0,1.8,3,1,09/07/2002
+379,3,Registeel,Iron Pokemon,steel,,"['Clear Body', 'Light Metal']",205.0,1.9,3,1,16/04/2002
+380,3,Latias,Eon Pokemon,dragon,psychic,"['Levitate']",40.0,1.4,3,1,29/04/2002
+381,3,Latios,Eon Pokemon,dragon,psychic,"['Levitate']",60.0,2.0,3,1,01/03/2002
+382,3,Kyogre,Sea Basin Pokemon,water,,"['Drizzle']",352.0,4.5,3,1,24/06/2002
+383,3,Groudon,Continent Pokemon,ground,,"['Drought']",950.0,3.5,3,1,28/01/2002
+384,3,Rayquaza,Sky High Pokemon,dragon,flying,"['Air Lock']",206.5,7.0,45,1,11/05/2002
+385,3,Jirachi,Wish Pokemon,steel,psychic,"['Serene Grace']",1.1,0.3,3,1,08/06/2002
+386,3,Deoxys,DNA Pokemon,psychic,,"['Pressure']",60.8,1.7,3,1,09/10/2002
+387,4,Turtwig,Tiny Leaf Pokemon,grass,,"['Overgrow', 'Shell Armor']",10.2,0.4,45,0,07/11/2006
+388,4,Grotle,Grove Pokemon,grass,,"['Overgrow', 'Shell Armor']",97.0,1.1,45,0,02/07/2006
+389,4,Torterra,Continent Pokemon,grass,ground,"['Overgrow', 'Shell Armor']",310.0,2.2,45,0,12/03/2006
+390,4,Chimchar,Chimp Pokemon,fire,,"['Blaze', 'Iron Fist']",6.2,0.5,45,0,24/01/2006
+391,4,Monferno,Playful Pokemon,fire,fighting,"['Blaze', 'Iron Fist']",22.0,0.9,45,0,14/10/2006
+392,4,Infernape,Flame Pokemon,fire,fighting,"['Blaze', 'Iron Fist']",55.0,1.2,45,0,22/10/2006
+393,4,Piplup,Penguin Pokemon,water,,"['Torrent', 'Defiant']",5.2,0.4,45,0,13/10/2006
+394,4,Prinplup,Penguin Pokemon,water,,"['Torrent', 'Defiant']",23.0,0.8,45,0,11/04/2006
+395,4,Empoleon,Emperor Pokemon,water,steel,"['Torrent', 'Defiant']",84.5,1.7,45,0,08/10/2006
+396,4,Starly,Starling Pokemon,normal,flying,"['Keen Eye', 'Reckless']",2.0,0.3,255,0,02/12/2006
+397,4,Staravia,Starling Pokemon,normal,flying,"['Intimidate', 'Reckless']",15.5,0.6,120,0,10/11/2006
+398,4,Staraptor,Predator Pokemon,normal,flying,"['Intimidate', 'Reckless']",24.9,1.2,45,0,18/01/2006
+399,4,Bidoof,Plump Mouse Pokemon,normal,,"['Simple', 'Unaware', 'Moody']",20.0,0.5,255,0,14/04/2006
+400,4,Bibarel,Beaver Pokemon,normal,water,"['Simple', 'Unaware', 'Moody']",31.5,1.0,127,0,11/04/2006
+401,4,Kricketot,Cricket Pokemon,bug,,"['Shed Skin', 'Run Away']",2.2,0.3,255,0,25/01/2006
+402,4,Kricketune,Cricket Pokemon,bug,,"['Swarm', 'Technician']",25.5,1.0,45,0,14/10/2006
+403,4,Shinx,Flash Pokemon,electric,,"['Rivalry', 'Intimidate', 'Guts']",9.5,0.5,235,0,15/07/2006
+404,4,Luxio,Spark Pokemon,electric,,"['Rivalry', 'Intimidate', 'Guts']",30.5,0.9,120,0,21/03/2006
+405,4,Luxray,Gleam Eyes Pokemon,electric,,"['Rivalry', 'Intimidate', 'Guts']",42.0,1.4,45,0,20/06/2006
+406,4,Budew,Bud Pokemon,grass,poison,"['Natural Cure', 'Poison Point', 'Leaf Guard']",1.2,0.2,255,0,17/11/2006
+407,4,Roserade,Bouquet Pokemon,grass,poison,"['Natural Cure', 'Poison Point', 'Technician']",14.5,0.9,75,0,30/05/2006
+408,4,Cranidos,Head Butt Pokemon,rock,,"['Mold Breaker', 'Sheer Force']",31.5,0.9,45,0,08/01/2006
+409,4,Rampardos,Head Butt Pokemon,rock,,"['Mold Breaker', 'Sheer Force']",102.5,1.6,45,0,12/05/2006
+410,4,Shieldon,Shield Pokemon,rock,steel,"['Sturdy', 'Soundproof']",57.0,0.5,45,0,09/11/2006
+411,4,Bastiodon,Shield Pokemon,rock,steel,"['Sturdy', 'Soundproof']",149.5,1.3,45,0,31/12/2006
+412,4,Burmy,Bagworm Pokemon,bug,,"['Shed Skin', 'Overcoat']",3.4,0.2,120,0,04/03/2006
+413,4,Wormadam,Bagworm Pokemon,bug,grass,"['Anticipation', 'Overcoat']",6.5,0.5,45,0,14/05/2006
+414,4,Mothim,Moth Pokemon,bug,flying,"['Swarm', 'Tinted Lens']",23.3,0.9,45,0,24/05/2006
+415,4,Combee,Tiny Bee Pokemon,bug,flying,"['Honey Gather', 'Hustle']",5.5,0.3,120,0,03/07/2006
+416,4,Vespiquen,Beehive Pokemon,bug,flying,"['Pressure', 'Unnerve']",38.5,1.2,45,0,04/08/2006
+417,4,Pachirisu,EleSquirrel Pokemon,electric,,"['Run Away', 'Pickup', 'Volt Absorb']",3.9,0.4,200,0,14/03/2006
+418,4,Buizel,Sea Weasel Pokemon,water,,"['Swift Swim', 'Water Veil']",29.5,0.7,190,0,20/04/2006
+419,4,Floatzel,Sea Weasel Pokemon,water,,"['Swift Swim', 'Water Veil']",33.5,1.1,75,0,29/01/2006
+420,4,Cherubi,Cherry Pokemon,grass,,"['Chlorophyll']",3.3,0.4,190,0,15/10/2006
+421,4,Cherrim,Blossom Pokemon,grass,,"['Flower Gift']",9.3,0.5,75,0,30/06/2006
+422,4,Shellos,Sea Slug Pokemon,water,,"['Sticky Hold', 'Storm Drain', 'Sand Force']",6.3,0.3,190,0,15/07/2006
+423,4,Gastrodon,Sea Slug Pokemon,water,ground,"['Sticky Hold', 'Storm Drain', 'Sand Force']",29.9,0.9,75,0,14/05/2006
+424,4,Ambipom,Long Tail Pokemon,normal,,"['Technician', 'Pickup', 'Skill Link']",20.3,1.2,45,0,05/08/2006
+425,4,Drifloon,Balloon Pokemon,ghost,flying,"['Aftermath', 'Unburden', 'Flare Boost']",1.2,0.4,125,0,23/05/2006
+426,4,Drifblim,Blimp Pokemon,ghost,flying,"['Aftermath', 'Unburden', 'Flare Boost']",15.0,1.2,60,0,03/11/2006
+427,4,Buneary,Rabbit Pokemon,normal,,"['Run Away', 'Klutz', 'Limber']",5.5,0.4,190,0,21/03/2006
+428,4,Lopunny,Rabbit Pokemon,normal,,"['Cute Charm', 'Klutz', 'Limber']",33.3,1.2,60,0,20/10/2006
+429,4,Mismagius,Magical Pokemon,ghost,,"['Levitate']",4.4,0.9,45,0,01/03/2006
+430,4,Honchkrow,Big Boss Pokemon,dark,flying,"['Insomnia', 'Super Luck', 'Moxie']",27.3,0.9,30,0,01/01/2006
+431,4,Glameow,Catty Pokemon,normal,,"['Limber', 'Own Tempo', 'Keen Eye']",3.9,0.5,190,0,28/04/2006
+432,4,Purugly,Tiger Cat Pokemon,normal,,"['Thick Fat', 'Own Tempo', 'Defiant']",43.8,1.0,75,0,08/05/2006
+433,4,Chingling,Bell Pokemon,psychic,,"['Levitate']",0.6,0.2,120,0,22/06/2006
+434,4,Stunky,Skunk Pokemon,poison,dark,"['Stench', 'Aftermath', 'Keen Eye']",19.2,0.4,225,0,10/10/2006
+435,4,Skuntank,Skunk Pokemon,poison,dark,"['Stench', 'Aftermath', 'Keen Eye']",38.0,1.0,60,0,06/11/2006
+436,4,Bronzor,Bronze Pokemon,steel,psychic,"['Levitate', 'Heatproof', 'Heavy Metal']",60.5,0.5,255,0,04/11/2006
+437,4,Bronzong,Bronze Bell Pokemon,steel,psychic,"['Levitate', 'Heatproof', 'Heavy Metal']",187.0,1.3,90,0,12/03/2006
+438,4,Bonsly,Bonsai Pokemon,rock,,"['Sturdy', 'Rock Head', 'Rattled']",15.0,0.5,255,0,31/08/2006
+439,4,Mime Jr.,Mime Pokemon,psychic,fairy,"['Soundproof', 'Filter', 'Technician']",13.0,0.6,145,0,28/04/2006
+440,4,Happiny,Playhouse Pokemon,normal,,"['Natural Cure', 'Serene Grace', 'Friend Guard']",24.4,0.6,130,0,17/02/2006
+441,4,Chatot,Music Note Pokemon,normal,flying,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",1.9,0.5,30,0,28/01/2006
+442,4,Spiritomb,Forbidden Pokemon,ghost,dark,"['Pressure', 'Infiltrator']",108.0,1.0,100,0,07/06/2006
+443,4,Gible,Land Shark Pokemon,dragon,ground,"['Sand Veil', 'Rough Skin']",20.5,0.7,45,0,25/09/2006
+444,4,Gabite,Cave Pokemon,dragon,ground,"['Sand Veil', 'Rough Skin']",56.0,1.4,45,0,05/04/2006
+445,4,Garchomp,Mach Pokemon,dragon,ground,"['Sand Veil', 'Rough Skin']",95.0,1.9,45,0,30/07/2006
+446,4,Munchlax,Big Eater Pokemon,normal,,"['Pickup', 'Thick Fat', 'Gluttony']",105.0,0.6,50,0,04/06/2006
+447,4,Riolu,Emanation Pokemon,fighting,,"['Steadfast', 'Inner Focus', 'Prankster']",20.2,0.7,75,0,18/03/2006
+448,4,Lucario,Aura Pokemon,fighting,steel,"['Steadfast', 'Inner Focus', 'Justified']",54.0,1.2,45,0,22/12/2006
+449,4,Hippopotas,Hippo Pokemon,ground,,"['Sand Stream', 'Sand Force']",49.5,0.8,140,0,17/10/2006
+450,4,Hippowdon,Heavyweight Pokemon,ground,,"['Sand Stream', 'Sand Force']",300.0,2.0,60,0,10/10/2006
+451,4,Skorupi,Scorpion Pokemon,poison,bug,"['Battle Armor', 'Sniper', 'Keen Eye']",12.0,0.8,120,0,07/09/2006
+452,4,Drapion,Ogre Scorp Pokemon,poison,dark,"['Battle Armor', 'Sniper', 'Keen Eye']",61.5,1.3,45,0,13/09/2006
+453,4,Croagunk,Toxic Mouth Pokemon,poison,fighting,"['Anticipation', 'Dry Skin', 'Poison Touch']",23.0,0.7,140,0,21/05/2006
+454,4,Toxicroak,Toxic Mouth Pokemon,poison,fighting,"['Anticipation', 'Dry Skin', 'Poison Touch']",44.4,1.3,75,0,22/11/2006
+455,4,Carnivine,Bug Catcher Pokemon,grass,,"['Levitate']",27.0,1.4,200,0,09/08/2006
+456,4,Finneon,Wing Fish Pokemon,water,,"['Swift Swim', 'Storm Drain', 'Water Veil']",7.0,0.4,190,0,21/11/2006
+457,4,Lumineon,Neon Pokemon,water,,"['Swift Swim', 'Storm Drain', 'Water Veil']",24.0,1.2,75,0,11/05/2006
+458,4,Mantyke,Kite Pokemon,water,flying,"['Swift Swim', 'Water Absorb', 'Water Veil']",65.0,1.0,25,0,10/02/2006
+459,4,Snover,Frosted Tree Pokemon,grass,ice,"['Snow Warning', 'Soundproof']",50.5,1.0,120,0,20/07/2006
+460,4,Abomasnow,Frosted Tree Pokemon,grass,ice,"['Snow Warning', 'Soundproof']",135.5,2.2,60,0,12/12/2006
+461,4,Weavile,Sharp Claw Pokemon,dark,ice,"['Pressure', 'Pickpocket']",34.0,1.1,45,0,02/08/2006
+462,4,Magnezone,Magnet Area Pokemon,electric,steel,"['Magnet Pull', 'Sturdy', 'Analytic']",180.0,1.2,30,0,21/07/2006
+463,4,Lickilicky,Licking Pokemon,normal,,"['Own Tempo', 'Oblivious', 'Cloud Nine']",140.0,1.7,30,0,24/05/2006
+464,4,Rhyperior,Drill Pokemon,ground,rock,"['Lightningrod', 'Solid Rock', 'Reckless']",282.8,2.4,30,0,06/06/2006
+465,4,Tangrowth,Vine Pokemon,grass,,"['Chlorophyll', 'Leaf Guard', 'Regenerator']",128.6,2.0,30,0,09/12/2006
+466,4,Electivire,Thunderbolt Pokemon,electric,,"['Motor Drive', 'Vital Spirit']",138.6,1.8,30,0,15/07/2006
+467,4,Magmortar,Blast Pokemon,fire,,"['Flame Body', 'Vital Spirit']",68.0,1.6,30,0,19/08/2006
+468,4,Togekiss,Jubilee Pokemon,fairy,flying,"['Hustle', 'Serene Grace', 'Super Luck']",38.0,1.5,30,0,20/01/2006
+469,4,Yanmega,Ogre Darner Pokemon,bug,flying,"['Speed Boost', 'Tinted Lens', 'Frisk']",51.5,1.9,30,0,16/10/2006
+470,4,Leafeon,Verdant Pokemon,grass,,"['Leaf Guard', 'Chlorophyll']",25.5,1.0,45,0,13/12/2006
+471,4,Glaceon,Fresh Snow Pokemon,ice,,"['Snow Cloak', 'Ice Body']",25.9,0.8,45,0,23/11/2006
+472,4,Gliscor,Fang Scorp Pokemon,ground,flying,"['Hyper Cutter', 'Sand Veil', 'Poison Heal']",42.5,2.0,30,0,17/11/2006
+473,4,Mamoswine,Twin Tusk Pokemon,ice,ground,"['Oblivious', 'Snow Cloak', 'Thick Fat']",291.0,2.5,50,0,09/12/2006
+474,4,Porygon-Z,Virtual Pokemon,normal,,"['Adaptability', 'Download', 'Analytic']",34.0,0.9,30,0,13/09/2006
+475,4,Gallade,Blade Pokemon,psychic,fighting,"['Steadfast', 'Justified']",52.0,1.6,45,0,04/04/2006
+476,4,Probopass,Compass Pokemon,rock,steel,"['Sturdy', 'Magnet Pull', 'Sand Force']",340.0,1.4,60,0,22/12/2006
+477,4,Dusknoir,Gripper Pokemon,ghost,,"['Pressure', 'Frisk']",106.6,2.2,45,0,20/09/2006
+478,4,Froslass,Snow Land Pokemon,ice,ghost,"['Snow Cloak', 'Cursed Body']",26.6,1.3,75,0,31/05/2006
+479,4,Rotom,Plasma Pokemon,electric,ghost,"['Levitate']",0.3,0.3,45,0,16/12/2006
+480,4,Uxie,Knowledge Pokemon,psychic,,"['Levitate']",0.3,0.3,3,1,16/03/2006
+481,4,Mesprit,Emotion Pokemon,psychic,,"['Levitate']",0.3,0.3,3,1,06/10/2006
+482,4,Azelf,Willpower Pokemon,psychic,,"['Levitate']",0.3,0.3,3,1,24/01/2006
+483,4,Dialga,Temporal Pokemon,steel,dragon,"['Pressure', 'Telepathy']",683.0,5.4,3,1,20/05/2006
+484,4,Palkia,Spatial Pokemon,water,dragon,"['Pressure', 'Telepathy']",336.0,4.2,3,1,09/11/2006
+485,4,Heatran,Lava Dome Pokemon,fire,steel,"['Flash Fire', 'Flame Body']",430.0,1.7,3,1,09/04/2006
+486,4,Regigigas,Colossal Pokemon,normal,,"['Slow Start']",420.0,3.7,3,1,10/12/2006
+487,4,Giratina,Renegade Pokemon,ghost,dragon,"['Pressure', 'Telepathy', 'Levitate']",750.0,4.5,3,1,17/05/2006
+488,4,Cresselia,Lunar Pokemon,psychic,,"['Levitate']",85.6,1.5,3,1,08/09/2006
+489,4,Phione,Sea Drifter Pokemon,water,,"['Hydration']",3.1,0.4,30,0,21/03/2006
+490,4,Manaphy,Seafaring Pokemon,water,,"['Hydration']",1.4,0.3,3,1,05/04/2006
+491,4,Darkrai,Pitch-Black Pokemon,dark,,"['Bad Dreams']",50.5,1.5,3,1,07/01/2006
+492,4,Shaymin,Gratitude Pokemon,grass,grass,"['Natural Cure', 'Serene Grace']",2.1,0.2,45,1,07/10/2006
+493,4,Arceus,Alpha Pokemon,normal,,"['Multitype']",320.0,3.2,3,1,10/12/2006
+494,5,Victini,Victory Pokemon,psychic,fire,"['Victory Star']",4.0,0.4,3,1,06/04/2010
+495,5,Snivy,Grass Snake Pokemon,grass,,"['Overgrow', 'Contrary']",8.1,0.6,45,0,10/05/2010
+496,5,Servine,Grass Snake Pokemon,grass,,"['Overgrow', 'Contrary']",16.0,0.8,45,0,04/07/2010
+497,5,Serperior,Regal Pokemon,grass,,"['Overgrow', 'Contrary']",63.0,3.3,45,0,07/02/2010
+498,5,Tepig,Fire Pig Pokemon,fire,,"['Blaze', 'Thick Fat']",9.9,0.5,45,0,12/03/2010
+499,5,Pignite,Fire Pig Pokemon,fire,fighting,"['Blaze', 'Thick Fat']",55.5,1.0,45,0,02/06/2010
+500,5,Emboar,Mega Fire Pig Pokemon,fire,fighting,"['Blaze', 'Reckless']",150.0,1.6,45,0,15/06/2010
+501,5,Oshawott,Sea Otter Pokemon,water,,"['Torrent', 'Shell Armor']",5.9,0.5,45,0,13/12/2010
+502,5,Dewott,Discipline Pokemon,water,,"['Torrent', 'Shell Armor']",24.5,0.8,45,0,08/06/2010
+503,5,Samurott,Formidable Pokemon,water,,"['Torrent', 'Shell Armor']",94.6,1.5,45,0,17/02/2010
+504,5,Patrat,Scout Pokemon,normal,,"['Run Away', 'Keen Eye', 'Analytic']",11.6,0.5,255,0,30/06/2010
+505,5,Watchog,Lookout Pokemon,normal,,"['Illuminate', 'Keen Eye', 'Analytic']",27.0,1.1,255,0,23/02/2010
+506,5,Lillipup,Puppy Pokemon,normal,,"['Vital Spirit', 'Pickup', 'Run Away']",4.1,0.4,255,0,04/09/2010
+507,5,Herdier,Loyal Dog Pokemon,normal,,"['Intimidate', 'Sand Rush', 'Scrappy']",14.7,0.9,120,0,09/06/2010
+508,5,Stoutland,Big-Hearted Pokemon,normal,,"['Intimidate', 'Sand Rush', 'Scrappy']",61.0,1.2,45,0,23/08/2010
+509,5,Purrloin,Devious Pokemon,dark,,"['Limber', 'Unburden', 'Prankster']",10.1,0.4,255,0,04/11/2010
+510,5,Liepard,Cruel Pokemon,dark,,"['Limber', 'Unburden', 'Prankster']",37.5,1.1,90,0,18/05/2010
+511,5,Pansage,Grass Monkey Pokemon,grass,,"['Gluttony', 'Overgrow']",10.5,0.6,190,0,09/01/2010
+512,5,Simisage,Thorn Monkey Pokemon,grass,,"['Gluttony', 'Overgrow']",30.5,1.1,75,0,03/09/2010
+513,5,Pansear,High Temp Pokemon,fire,,"['Gluttony', 'Blaze']",11.0,0.6,190,0,10/07/2010
+514,5,Simisear,Ember Pokemon,fire,,"['Gluttony', 'Blaze']",28.0,1.0,75,0,08/03/2010
+515,5,Panpour,Spray Pokemon,water,,"['Gluttony', 'Torrent']",13.5,0.6,190,0,06/04/2010
+516,5,Simipour,Geyser Pokemon,water,,"['Gluttony', 'Torrent']",29.0,1.0,75,0,19/09/2010
+517,5,Munna,Dream Eater Pokemon,psychic,,"['Forewarn', 'Synchronize', 'Telepathy']",23.3,0.6,190,0,12/11/2010
+518,5,Musharna,Drowsing Pokemon,psychic,,"['Forewarn', 'Synchronize', 'Telepathy']",60.5,1.1,75,0,02/09/2010
+519,5,Pidove,Tiny Pigeon Pokemon,normal,flying,"['Big Pecks', 'Super Luck', 'Rivalry']",2.1,0.3,255,0,21/11/2010
+520,5,Tranquill,Wild Pigeon Pokemon,normal,flying,"['Big Pecks', 'Super Luck', 'Rivalry']",15.0,0.6,120,0,26/11/2010
+521,5,Unfezant,Proud Pokemon,normal,flying,"['Big Pecks', 'Super Luck', 'Rivalry']",29.0,1.2,45,0,26/04/2010
+522,5,Blitzle,Electrified Pokemon,electric,,"['Lightningrod', 'Motor Drive', 'Sap Sipper']",29.8,0.8,190,0,18/02/2010
+523,5,Zebstrika,Thunderbolt Pokemon,electric,,"['Lightningrod', 'Motor Drive', 'Sap Sipper']",79.5,1.6,75,0,30/06/2010
+524,5,Roggenrola,Mantle Pokemon,rock,,"['Sturdy', 'Weak Armor', 'Sand Force']",18.0,0.4,255,0,21/04/2010
+525,5,Boldore,Ore Pokemon,rock,,"['Sturdy', 'Weak Armor', 'Sand Force']",102.0,0.9,120,0,13/11/2010
+526,5,Gigalith,Compressed Pokemon,rock,,"['Sturdy', 'Sand Stream', 'Sand Force']",260.0,1.7,45,0,21/04/2010
+527,5,Woobat,Bat Pokemon,psychic,flying,"['Unaware', 'Klutz', 'Simple']",2.1,0.4,190,0,09/01/2010
+528,5,Swoobat,Courting Pokemon,psychic,flying,"['Unaware', 'Klutz', 'Simple']",10.5,0.9,45,0,30/01/2010
+529,5,Drilbur,Mole Pokemon,ground,,"['Sand Rush', 'Sand Force', 'Mold Breaker']",8.5,0.3,120,0,27/09/2010
+530,5,Excadrill,Subterrene Pokemon,ground,steel,"['Sand Rush', 'Sand Force', 'Mold Breaker']",40.4,0.7,60,0,21/02/2010
+531,5,Audino,Hearing Pokemon,normal,,"['Healer', 'Regenerator', 'Klutz']",31.0,1.1,255,0,08/02/2010
+532,5,Timburr,Muscular Pokemon,fighting,,"['Guts', 'Sheer Force', 'Iron Fist']",12.5,0.6,180,0,03/07/2010
+533,5,Gurdurr,Muscular Pokemon,fighting,,"['Guts', 'Sheer Force', 'Iron Fist']",40.0,1.2,90,0,28/01/2010
+534,5,Conkeldurr,Muscular Pokemon,fighting,,"['Guts', 'Sheer Force', 'Iron Fist']",87.0,1.4,45,0,31/03/2010
+535,5,Tympole,Tadpole Pokemon,water,,"['Swift Swim', 'Hydration', 'Water Absorb']",4.5,0.5,255,0,28/01/2010
+536,5,Palpitoad,Vibration Pokemon,water,ground,"['Swift Swim', 'Hydration', 'Water Absorb']",17.0,0.8,120,0,18/09/2010
+537,5,Seismitoad,Vibration Pokemon,water,ground,"['Swift Swim', 'Poison Touch', 'Water Absorb']",62.0,1.5,45,0,28/04/2010
+538,5,Throh,Judo Pokemon,fighting,,"['Guts', 'Inner Focus', 'Mold Breaker']",55.5,1.3,45,0,02/03/2010
+539,5,Sawk,Karate Pokemon,fighting,,"['Sturdy', 'Inner Focus', 'Mold Breaker']",51.0,1.4,45,0,30/12/2010
+540,5,Sewaddle,Sewing Pokemon,bug,grass,"['Swarm', 'Chlorophyll', 'Overcoat']",2.5,0.3,255,0,20/10/2010
+541,5,Swadloon,Leaf-Wrapped Pokemon,bug,grass,"['Leaf Guard', 'Chlorophyll', 'Overcoat']",7.3,0.5,120,0,27/03/2010
+542,5,Leavanny,Nurturing Pokemon,bug,grass,"['Swarm', 'Chlorophyll', 'Overcoat']",20.5,1.2,45,0,04/09/2010
+543,5,Venipede,Centipede Pokemon,bug,poison,"['Poison Point', 'Swarm', 'Speed Boost']",5.3,0.4,255,0,05/02/2010
+544,5,Whirlipede,Curlipede Pokemon,bug,poison,"['Poison Point', 'Swarm', 'Speed Boost']",58.5,1.2,120,0,12/07/2010
+545,5,Scolipede,Megapede Pokemon,bug,poison,"['Poison Point', 'Swarm', 'Speed Boost']",200.5,2.5,45,0,16/08/2010
+546,5,Cottonee,Cotton Puff Pokemon,grass,fairy,"['Prankster', 'Infiltrator', 'Chlorophyll']",0.6,0.3,190,0,16/06/2010
+547,5,Whimsicott,Windveiled Pokemon,grass,fairy,"['Prankster', 'Infiltrator', 'Chlorophyll']",6.6,0.7,75,0,28/06/2010
+548,5,Petilil,Bulb Pokemon,grass,,"['Chlorophyll', 'Own Tempo', 'Leaf Guard']",6.6,0.5,190,0,29/12/2010
+549,5,Lilligant,Flowering Pokemon,grass,,"['Chlorophyll', 'Own Tempo', 'Leaf Guard']",16.3,1.1,75,0,28/11/2010
+550,5,Basculin,Hostile Pokemon,water,,"['Reckless', 'Rock Head', 'Adaptability', 'Mold Breaker']",18.0,1.0,25,0,04/08/2010
+551,5,Sandile,Desert Croc Pokemon,ground,dark,"['Intimidate', 'Moxie', 'Anger Point']",15.2,0.7,180,0,16/06/2010
+552,5,Krokorok,Desert Croc Pokemon,ground,dark,"['Intimidate', 'Moxie', 'Anger Point']",33.4,1.0,90,0,24/10/2010
+553,5,Krookodile,Intimidation Pokemon,ground,dark,"['Intimidate', 'Moxie', 'Anger Point']",96.3,1.5,45,0,08/01/2010
+554,5,Darumaka,Zen Charm Pokemon,fire,,"['Hustle', 'Inner Focus']",37.5,0.6,120,0,21/05/2010
+555,5,Darmanitan,Blazing Pokemon,fire,fire,"['Sheer Force', 'Zen Mode']",92.9,1.3,60,0,09/12/2010
+556,5,Maractus,Cactus Pokemon,grass,,"['Water Absorb', 'Chlorophyll', 'Storm Drain']",28.0,1.0,255,0,20/10/2010
+557,5,Dwebble,Rock Inn Pokemon,bug,rock,"['Sturdy', 'Shell Armor', 'Weak Armor']",14.5,0.3,190,0,19/01/2010
+558,5,Crustle,Stone Home Pokemon,bug,rock,"['Sturdy', 'Shell Armor', 'Weak Armor']",200.0,1.4,75,0,10/04/2010
+559,5,Scraggy,Shedding Pokemon,dark,fighting,"['Shed Skin', 'Moxie', 'Intimidate']",11.8,0.6,180,0,12/06/2010
+560,5,Scrafty,Hoodlum Pokemon,dark,fighting,"['Shed Skin', 'Moxie', 'Intimidate']",30.0,1.1,90,0,04/01/2010
+561,5,Sigilyph,Avianoid Pokemon,psychic,flying,"['Wonder Skin ', 'Magic Guard', 'Tinted Lens']",14.0,1.4,45,0,18/09/2010
+562,5,Yamask,Spirit Pokemon,ghost,,"['Mummy']",1.5,0.5,190,0,07/07/2010
+563,5,Cofagrigus,Coffin Pokemon,ghost,,"['Mummy']",76.5,1.7,90,0,03/09/2010
+564,5,Tirtouga,Prototurtle Pokemon,water,rock,"['Solid Rock', 'Sturdy', 'Swift Swim']",16.5,0.7,45,0,02/09/2010
+565,5,Carracosta,Prototurtle Pokemon,water,rock,"['Solid Rock', 'Sturdy', 'Swift Swim']",81.0,1.2,45,0,06/02/2010
+566,5,Archen,First Bird Pokemon,rock,flying,"['Defeatist']",9.5,0.5,45,0,15/10/2010
+567,5,Archeops,First Bird Pokemon,rock,flying,"['Defeatist']",32.0,1.4,45,0,19/03/2010
+568,5,Trubbish,Trash Bag Pokemon,poison,,"['Stench', 'Sticky Hold', 'Aftermath']",31.0,0.6,190,0,14/04/2010
+569,5,Garbodor,Trash Heap Pokemon,poison,,"['Stench', 'Weak Armor', 'Aftermath']",107.3,1.9,60,0,03/02/2010
+570,5,Zorua,Tricky Fox Pokemon,dark,,"['Illusion']",12.5,0.7,75,0,30/06/2010
+571,5,Zoroark,Illusion Fox Pokemon,dark,,"['Illusion']",81.1,1.6,45,0,24/11/2010
+572,5,Minccino,Chinchilla Pokemon,normal,,"['Cute Charm', 'Technician', 'Skill Link']",5.8,0.4,255,0,18/11/2010
+573,5,Cinccino,Scarf Pokemon,normal,,"['Cute Charm', 'Technician', 'Skill Link']",7.5,0.5,60,0,07/08/2010
+574,5,Gothita,Fixation Pokemon,psychic,,"['Frisk', 'Competitive', 'Shadow Tag']",5.8,0.4,200,0,02/03/2010
+575,5,Gothorita,Manipulate Pokemon,psychic,,"['Frisk', 'Competitive', 'Shadow Tag']",18.0,0.7,100,0,02/07/2010
+576,5,Gothitelle,Astral Body Pokemon,psychic,,"['Frisk', 'Competitive', 'Shadow Tag']",44.0,1.5,50,0,17/10/2010
+577,5,Solosis,Cell Pokemon,psychic,,"['Overcoat', 'Magic Guard', 'Regenerator']",1.0,0.3,200,0,13/04/2010
+578,5,Duosion,Mitosis Pokemon,psychic,,"['Overcoat', 'Magic Guard', 'Regenerator']",8.0,0.6,100,0,03/08/2010
+579,5,Reuniclus,Multiplying Pokemon,psychic,,"['Overcoat', 'Magic Guard', 'Regenerator']",20.1,1.0,50,0,22/05/2010
+580,5,Ducklett,Water Bird Pokemon,water,flying,"['Keen Eye', 'Big Pecks', 'Hydration']",5.5,0.5,190,0,20/06/2010
+581,5,Swanna,White Bird Pokemon,water,flying,"['Keen Eye', 'Big Pecks', 'Hydration']",24.2,1.3,45,0,29/09/2010
+582,5,Vanillite,Fresh Snow Pokemon,ice,,"['Ice Body', 'Snow Cloak', 'Weak Armor']",5.7,0.4,255,0,28/07/2010
+583,5,Vanillish,Icy Snow Pokemon,ice,,"['Ice Body', 'Snow Cloak', 'Weak Armor']",41.0,1.1,120,0,07/12/2010
+584,5,Vanilluxe,Snowstorm Pokemon,ice,,"['Ice Body', 'Snow Warning', 'Weak Armor']",57.5,1.3,45,0,21/01/2010
+585,5,Deerling,Season Pokemon,normal,grass,"['Chlorophyll', 'Sap Sipper', 'Serene Grace']",19.5,0.6,190,0,01/11/2010
+586,5,Sawsbuck,Season Pokemon,normal,grass,"['Chlorophyll', 'Sap Sipper', 'Serene Grace']",92.5,1.9,75,0,06/05/2010
+587,5,Emolga,Sky Squirrel Pokemon,electric,flying,"['Static', 'Motor Drive']",5.0,0.4,200,0,30/06/2010
+588,5,Karrablast,Clamping Pokemon,bug,,"['Swarm', 'Shed Skin', 'No Guard']",5.9,0.5,200,0,25/12/2010
+589,5,Escavalier,Cavalry Pokemon,bug,steel,"['Swarm', 'Shell Armor', 'Overcoat']",33.0,1.0,75,0,22/05/2010
+590,5,Foongus,Mushroom Pokemon,grass,poison,"['Effect Spore', 'Regenerator']",1.0,0.2,190,0,24/06/2010
+591,5,Amoonguss,Mushroom Pokemon,grass,poison,"['Effect Spore', 'Regenerator']",10.5,0.6,75,0,06/06/2010
+592,5,Frillish,Floating Pokemon,water,ghost,"['Water Absorb', 'Cursed Body', 'Damp']",33.0,1.2,190,0,04/09/2010
+593,5,Jellicent,Floating Pokemon,water,ghost,"['Water Absorb', 'Cursed Body', 'Damp']",135.0,2.2,60,0,08/06/2010
+594,5,Alomomola,Caring Pokemon,water,,"['Healer', 'Hydration', 'Regenerator']",31.6,1.2,75,0,21/03/2010
+595,5,Joltik,Attaching Pokemon,bug,electric,"['Compoundeyes', 'Unnerve', 'Swarm']",0.6,0.1,190,0,22/12/2010
+596,5,Galvantula,EleSpider Pokemon,bug,electric,"['Compoundeyes', 'Unnerve', 'Swarm']",14.3,0.8,75,0,24/10/2010
+597,5,Ferroseed,Thorn Seed Pokemon,grass,steel,"['Iron Barbs']",18.8,0.6,255,0,09/09/2010
+598,5,Ferrothorn,Thorn Pod Pokemon,grass,steel,"['Iron Barbs', 'Anticipation']",110.0,1.0,90,0,02/09/2010
+599,5,Klink,Gear Pokemon,steel,,"['Plus', 'Minus', 'Clear Body']",21.0,0.3,130,0,27/01/2010
+600,5,Klang,Gear Pokemon,steel,,"['Plus', 'Minus', 'Clear Body']",51.0,0.6,60,0,19/10/2010
+601,5,Klinklang,Gear Pokemon,steel,,"['Plus', 'Minus', 'Clear Body']",81.0,0.6,30,0,18/08/2010
+602,5,Tynamo,EleFish Pokemon,electric,,"['Levitate']",0.3,0.2,190,0,02/04/2010
+603,5,Eelektrik,EleFish Pokemon,electric,,"['Levitate']",22.0,1.2,60,0,15/10/2010
+604,5,Eelektross,EleFish Pokemon,electric,,"['Levitate']",80.5,2.1,30,0,29/06/2010
+605,5,Elgyem,Cerebral Pokemon,psychic,,"['Telepathy', 'Synchronize', 'Analytic']",9.0,0.5,255,0,12/05/2010
+606,5,Beheeyem,Cerebral Pokemon,psychic,,"['Telepathy', 'Synchronize', 'Analytic']",34.5,1.0,90,0,12/12/2010
+607,5,Litwick,Candle Pokemon,ghost,fire,"['Flash Fire', 'Flame Body', 'Infiltrator']",3.1,0.3,190,0,25/03/2010
+608,5,Lampent,Lamp Pokemon,ghost,fire,"['Flash Fire', 'Flame Body', 'Infiltrator']",13.0,0.6,90,0,17/05/2010
+609,5,Chandelure,Luring Pokemon,ghost,fire,"['Flash Fire', 'Flame Body', 'Infiltrator']",34.3,1.0,45,0,27/05/2010
+610,5,Axew,Tusk Pokemon,dragon,,"['Rivalry', 'Mold Breaker', 'Unnerve']",18.0,0.6,75,0,04/07/2010
+611,5,Fraxure,Axe Jaw Pokemon,dragon,,"['Rivalry', 'Mold Breaker', 'Unnerve']",36.0,1.0,60,0,23/01/2010
+612,5,Haxorus,Axe Jaw Pokemon,dragon,,"['Rivalry', 'Mold Breaker', 'Unnerve']",105.5,1.8,45,0,22/06/2010
+613,5,Cubchoo,Chill Pokemon,ice,,"['Snow Cloak', 'Slush Rush', 'Rattled']",8.5,0.5,120,0,09/06/2010
+614,5,Beartic,Freezing Pokemon,ice,,"['Snow Cloak', 'Slush Rush', 'Swift Swim']",260.0,2.6,60,0,10/02/2010
+615,5,Cryogonal,Crystallizing Pokemon,ice,,"['Levitate']",148.0,1.1,25,0,12/04/2010
+616,5,Shelmet,Snail Pokemon,bug,,"['Hydration', 'Shell Armor', 'Overcoat']",7.7,0.4,200,0,28/11/2010
+617,5,Accelgor,Shell Out Pokemon,bug,,"['Hydration', 'Sticky Hold', 'Unburden']",25.3,0.8,75,0,07/03/2010
+618,5,Stunfisk,Trap Pokemon,ground,electric,"['Static', 'Limber', 'Sand Veil']",11.0,0.7,75,0,18/11/2010
+619,5,Mienfoo,Martial Arts Pokemon,fighting,,"['Inner Focus', 'Regenerator', 'Reckless']",20.0,0.9,180,0,13/03/2010
+620,5,Mienshao,Martial Arts Pokemon,fighting,,"['Inner Focus', 'Regenerator', 'Reckless']",35.5,1.4,45,0,23/02/2010
+621,5,Druddigon,Cave Pokemon,dragon,,"['Rough Skin', 'Sheer Force', 'Mold Breaker']",139.0,1.6,45,0,19/01/2010
+622,5,Golett,Automaton Pokemon,ground,ghost,"['Iron Fist', 'Klutz', 'No Guard']",92.0,1.0,190,0,14/10/2010
+623,5,Golurk,Automaton Pokemon,ground,ghost,"['Iron Fist', 'Klutz', 'No Guard']",330.0,2.8,90,0,20/01/2010
+624,5,Pawniard,Sharp Blade Pokemon,dark,steel,"['Defiant', 'Inner Focus', 'Pressure']",10.2,0.5,120,0,19/09/2010
+625,5,Bisharp,Sword Blade Pokemon,dark,steel,"['Defiant', 'Inner Focus', 'Pressure']",70.0,1.6,45,0,18/06/2010
+626,5,Bouffalant,Bash Buffalo Pokemon,normal,,"['Reckless', 'Sap Sipper', 'Soundproof']",94.6,1.6,45,0,27/04/2010
+627,5,Rufflet,Eaglet Pokemon,normal,flying,"['Keen Eye', 'Sheer Force', 'Hustle']",10.5,0.5,190,0,18/10/2010
+628,5,Braviary,Valiant Pokemon,normal,flying,"['Keen Eye', 'Sheer Force', 'Defiant']",41.0,1.5,60,0,03/08/2010
+629,5,Vullaby,Diapered Pokemon,dark,flying,"['Big Pecks', 'Overcoat', 'Weak Armor']",9.0,0.5,190,0,12/03/2010
+630,5,Mandibuzz,Bone Vulture Pokemon,dark,flying,"['Big Pecks', 'Overcoat', 'Weak Armor']",39.5,1.2,60,0,04/03/2010
+631,5,Heatmor,Anteater Pokemon,fire,,"['Gluttony', 'Flash Fire', 'White Smoke']",58.0,1.4,90,0,14/12/2010
+632,5,Durant,Iron Ant Pokemon,bug,steel,"['Swarm', 'Hustle', 'Truant']",33.0,0.3,90,0,27/09/2010
+633,5,Deino,Irate Pokemon,dark,dragon,"['Hustle']",17.3,0.8,45,0,07/11/2010
+634,5,Zweilous,Hostile Pokemon,dark,dragon,"['Hustle']",50.0,1.4,45,0,08/12/2010
+635,5,Hydreigon,Brutal Pokemon,dark,dragon,"['Levitate']",160.0,1.8,45,0,09/03/2010
+636,5,Larvesta,Torch Pokemon,bug,fire,"['Flame Body', 'Swarm']",28.8,1.1,45,0,18/03/2010
+637,5,Volcarona,Sun Pokemon,bug,fire,"['Flame Body', 'Swarm']",46.0,1.6,15,0,24/10/2010
+638,5,Cobalion,Iron Will Pokemon,steel,fighting,"['Justified']",250.0,2.1,3,1,17/03/2010
+639,5,Terrakion,Cavern Pokemon,rock,fighting,"['Justified']",260.0,1.9,3,1,20/12/2010
+640,5,Virizion,Grassland Pokemon,grass,fighting,"['Justified']",200.0,2.0,3,1,01/04/2010
+641,5,Tornadus,Cyclone Pokemon,flying,,"['Prankster', 'Defiant', 'Regenerator']",63.0,1.5,3,1,14/07/2010
+642,5,Thundurus,Bolt Strike Pokemon,electric,flying,"['Prankster', 'Defiant', 'Volt Absorb']",61.0,1.5,3,1,29/09/2010
+643,5,Reshiram,Vast White Pokemon,dragon,fire,"['Turboblaze']",330.0,3.2,3,1,21/09/2010
+644,5,Zekrom,Deep Black Pokemon,dragon,electric,"['Teravolt']",345.0,2.9,3,1,31/10/2010
+645,5,Landorus,Abundance Pokemon,ground,flying,"['Sand Force', 'Sheer Force', 'Intimidate']",68.0,1.5,3,1,23/09/2010
+646,5,Kyurem,Boundary Pokemon,dragon,ice,"['Pressure', 'Teravolt', 'Turboblaze']",325.0,3.0,3,1,01/06/2010
+647,5,Keldeo,Colt Pokemon,water,fighting,"['Justified']",48.5,1.4,3,1,08/05/2010
+648,5,Meloetta,Melody Pokemon,normal,psychic,"['Serene Grace']",6.5,0.6,3,1,23/11/2010
+649,5,Genesect,Paleozoic Pokemon,bug,steel,"['Download']",82.5,1.5,3,1,12/07/2010
+650,6,Chespin,Spiky Nut Pokemon,grass,,"['Overgrow', 'Bulletproof']",9.0,0.4,45,0,17/02/2013
+651,6,Quilladin,Spiny Armor Pokemon,grass,,"['Overgrow', 'Bulletproof']",29.0,0.7,45,0,15/08/2013
+652,6,Chesnaught,Spiny Armor Pokemon,grass,fighting,"['Overgrow', 'Bulletproof']",90.0,1.6,45,0,13/07/2013
+653,6,Fennekin,Fox Pokemon,fire,,"['Blaze', 'Magician']",9.4,0.4,45,0,06/11/2013
+654,6,Braixen,Fox Pokemon,fire,,"['Blaze', 'Magician']",14.5,1.0,45,0,26/04/2013
+655,6,Delphox,Fox Pokemon,fire,psychic,"['Blaze', 'Magician']",39.0,1.5,45,0,24/07/2013
+656,6,Froakie,Bubble Frog Pokemon,water,,"['Torrent', 'Protean']",7.0,0.3,45,0,20/02/2013
+657,6,Frogadier,Bubble Frog Pokemon,water,,"['Torrent', 'Protean']",10.9,0.6,45,0,12/02/2013
+658,6,Greninja,Ninja Pokemon,water,dark,"['Torrent', 'Protean', 'Battle Bond']",40.0,1.5,45,0,26/08/2013
+659,6,Bunnelby,Digging Pokemon,normal,,"['Pickup', 'Cheek Pouch', 'Huge Power']",5.0,0.4,255,0,30/08/2013
+660,6,Diggersby,Digging Pokemon,normal,ground,"['Pickup', 'Cheek Pouch', 'Huge Power']",42.4,1.0,127,0,27/06/2013
+661,6,Fletchling,Tiny Robin Pokemon,normal,flying,"['Big Pecks', 'Gale Wings']",1.7,0.3,255,0,20/01/2013
+662,6,Fletchinder,Ember Pokemon,fire,flying,"['Flame Body', 'Gale Wings']",16.0,0.7,120,0,20/04/2013
+663,6,Talonflame,Scorching Pokemon,fire,flying,"['Flame Body', 'Gale Wings']",24.5,1.2,45,0,24/06/2013
+664,6,Scatterbug,Scatterdust Pokemon,bug,,"['Shield Dust', 'Compoundeyes', 'Friend Guard']",2.5,0.3,255,0,12/10/2013
+665,6,Spewpa,Scatterdust Pokemon,bug,,"['Shed Skin', 'Friend Guard']",8.4,0.3,120,0,08/09/2013
+666,6,Vivillon,Scale Pokemon,bug,flying,"['Shield Dust', 'Compoundeyes', 'Friend Guard']",17.0,1.2,45,0,20/06/2013
+667,6,Litleo,Lion Cub Pokemon,fire,normal,"['Rivalry', 'Unnerve', 'Moxie']",13.5,0.6,220,0,08/05/2013
+668,6,Pyroar,Royal Pokemon,fire,normal,"['Rivalry', 'Unnerve', 'Moxie']",81.5,1.5,65,0,11/04/2013
+669,6,Flabébé,Single Bloom Pokemon,fairy,,"['Flower Veil', 'Symbiosis']",0.1,0.1,225,0,30/06/2013
+670,6,Floette,Fairy Pokemon,fairy,,"['Flower Veil', 'Symbiosis']",0.9,0.2,120,0,13/02/2013
+671,6,Florges,Garden Pokemon,fairy,,"['Flower Veil', 'Symbiosis']",10.0,1.1,45,0,16/07/2013
+672,6,Skiddo,Mount Pokemon,grass,,"['Sap Sipper', 'Grass Pelt']",31.0,0.9,200,0,01/02/2013
+673,6,Gogoat,Mount Pokemon,grass,,"['Sap Sipper', 'Grass Pelt']",91.0,1.7,45,0,07/09/2013
+674,6,Pancham,Playful Pokemon,fighting,,"['Iron Fist', 'Mold Breaker', 'Scrappy']",8.0,0.6,220,0,19/03/2013
+675,6,Pangoro,Daunting Pokemon,fighting,dark,"['Iron Fist', 'Mold Breaker', 'Scrappy']",136.0,2.1,65,0,06/12/2013
+676,6,Furfrou,Poodle Pokemon,normal,,"['Fur Coat']",28.0,1.2,160,0,15/05/2013
+677,6,Espurr,Restraint Pokemon,psychic,,"['Keen Eye', 'Infiltrator', 'Own Tempo']",3.5,0.3,190,0,28/07/2013
+678,6,Meowstic,Constraint Pokemon,psychic,,"['Keen Eye', 'Infiltrator', 'Prankster', 'Competitive']",8.5,0.6,75,0,19/08/2013
+679,6,Honedge,Sword Pokemon,steel,ghost,"['No Guard']",2.0,0.8,180,0,03/09/2013
+680,6,Doublade,Sword Pokemon,steel,ghost,"['No Guard']",4.5,0.8,90,0,22/12/2013
+681,6,Aegislash,Royal Sword Pokemon,steel,ghost,"['Stance Change']",53.0,1.7,45,0,06/01/2013
+682,6,Spritzee,Perfume Pokemon,fairy,,"['Healer', 'Aroma Veil']",0.5,0.2,200,0,14/06/2013
+683,6,Aromatisse,Fragrance Pokemon,fairy,,"['Healer', 'Aroma Veil']",15.5,0.8,140,0,06/07/2013
+684,6,Swirlix,Cotton Candy Pokemon,fairy,,"['Sweet Veil', 'Unburden']",3.5,0.4,200,0,22/12/2013
+685,6,Slurpuff,Meringue Pokemon,fairy,,"['Sweet Veil', 'Unburden']",5.0,0.8,140,0,14/09/2013
+686,6,Inkay,Revolving Pokemon,dark,psychic,"['Contrary', 'Suction Cups', 'Infiltrator']",3.5,0.4,190,0,13/11/2013
+687,6,Malamar,Overturning Pokemon,dark,psychic,"['Contrary', 'Suction Cups', 'Infiltrator']",47.0,1.5,80,0,23/03/2013
+688,6,Binacle,Two-Handed Pokemon,rock,water,"['Tough Claws', 'Sniper', 'Pickpocket']",31.0,0.5,120,0,22/11/2013
+689,6,Barbaracle,Collective Pokemon,rock,water,"['Tough Claws', 'Sniper', 'Pickpocket']",96.0,1.3,45,0,16/06/2013
+690,6,Skrelp,Mock Kelp Pokemon,poison,water,"['Poison Point', 'Poison Touch', 'Adaptability']",7.3,0.5,225,0,25/09/2013
+691,6,Dragalge,Mock Kelp Pokemon,poison,dragon,"['Poison Point', 'Poison Touch', 'Adaptability']",81.5,1.8,55,0,14/05/2013
+692,6,Clauncher,Water Gun Pokemon,water,,"['Mega Launcher']",8.3,0.5,225,0,23/05/2013
+693,6,Clawitzer,Howitzer Pokemon,water,,"['Mega Launcher']",35.3,1.3,55,0,21/05/2013
+694,6,Helioptile,Generator Pokemon,electric,normal,"['Dry Skin', 'Sand Veil', 'Solar Power']",6.0,0.5,190,0,29/09/2013
+695,6,Heliolisk,Generator Pokemon,electric,normal,"['Dry Skin', 'Sand Veil', 'Solar Power']",21.0,1.0,75,0,10/03/2013
+696,6,Tyrunt,Royal Heir Pokemon,rock,dragon,"['Strong Jaw', 'Sturdy']",26.0,0.8,45,0,15/09/2013
+697,6,Tyrantrum,Despot Pokemon,rock,dragon,"['Strong Jaw', 'Rock Head']",270.0,2.5,45,0,07/07/2013
+698,6,Amaura,Tundra Pokemon,rock,ice,"['Refrigerate', 'Snow Warning']",25.2,1.3,45,0,22/10/2013
+699,6,Aurorus,Tundra Pokemon,rock,ice,"['Refrigerate', 'Snow Warning']",225.0,2.7,45,0,09/03/2013
+700,6,Sylveon,Intertwining Pokemon,fairy,,"['Cute Charm', 'Pixilate']",23.5,1.0,45,0,02/07/2013
+701,6,Hawlucha,Wrestling Pokemon,fighting,flying,"['Limber', 'Unburden', 'Mold Breaker']",21.5,0.8,100,0,13/07/2013
+702,6,Dedenne,Antenna Pokemon,electric,fairy,"['Cheek Pouch', 'Pickup', 'Plus']",2.2,0.2,180,0,30/04/2013
+703,6,Carbink,Jewel Pokemon,rock,fairy,"['Clear Body', 'Sturdy']",5.7,0.3,60,0,02/08/2013
+704,6,Goomy,Soft Tissue Pokemon,dragon,,"['Sap Sipper', 'Hydration', 'Gooey']",2.8,0.3,45,0,25/03/2013
+705,6,Sliggoo,Soft Tissue Pokemon,dragon,,"['Sap Sipper', 'Hydration', 'Gooey']",17.5,0.8,45,0,04/03/2013
+706,6,Goodra,Dragon Pokemon,dragon,,"['Sap Sipper', 'Hydration', 'Gooey']",150.5,2.0,45,0,01/10/2013
+707,6,Klefki,Key Ring Pokemon,steel,fairy,"['Prankster', 'Magician']",3.0,0.2,75,0,09/01/2013
+708,6,Phantump,Stump Pokemon,ghost,grass,"['Natural Cure', 'Frisk', 'Harvest']",7.0,0.4,120,0,19/09/2013
+709,6,Trevenant,Elder Tree Pokemon,ghost,grass,"['Natural Cure', 'Frisk', 'Harvest']",71.0,1.5,60,0,09/02/2013
+710,6,Pumpkaboo,Pumpkin Pokemon,ghost,grass,"['Pickup', 'Frisk', 'Insomnia']",15.0,0.8,120,0,28/08/2013
+711,6,Gourgeist,Pumpkin Pokemon,ghost,grass,"['Pickup', 'Frisk', 'Insomnia']",39.0,1.7,60,0,25/07/2013
+712,6,Bergmite,Ice Chunk Pokemon,ice,,"['Own Tempo', 'Ice Body', 'Sturdy']",99.5,1.0,190,0,23/06/2013
+713,6,Avalugg,Iceberg Pokemon,ice,,"['Own Tempo', 'Ice Body', 'Sturdy']",505.0,2.0,55,0,22/09/2013
+714,6,Noibat,Sound Wave Pokemon,flying,dragon,"['Frisk', 'Infiltrator', 'Telepathy']",8.0,0.5,190,0,02/06/2013
+715,6,Noivern,Sound Wave Pokemon,flying,dragon,"['Frisk', 'Infiltrator', 'Telepathy']",85.0,1.5,45,0,15/02/2013
+716,6,Xerneas,Life Pokemon,fairy,,"['Fairy Aura']",215.0,3.0,45,1,23/02/2013
+717,6,Yveltal,Destruction Pokemon,dark,flying,"['Dark Aura']",203.0,5.8,45,1,29/07/2013
+718,6,Zygarde,Order Pokemon,dragon,ground,"['Aura Break', 'Power Construct']",284.6,5.0,3,1,08/02/2013
+719,6,Diancie,Jewel Pokemon,rock,fairy,"['Clear Body']",8.8,0.7,3,1,14/03/2013
+720,6,Hoopa,Mischief Pokemon (Confined)Djinn Pokemonn (Unbound),psychic,ghost,"['Magician']",,,3,1,07/05/2013
+721,6,Volcanion,Steam Pokemon,fire,water,"['Water Absorb']",195.0,1.7,3,1,24/05/2013
+722,7,Rowlet,Grass Quill Pokemon,grass,flying,"['Overgrow', 'Long Reach']",1.5,0.3,45,0,21/05/2016
+723,7,Dartrix,Blade Quill Pokemon,grass,flying,"['Overgrow', 'Long Reach']",16.0,0.7,45,0,13/06/2016
+724,7,Decidueye,Arrow Quill Pokemon,grass,ghost,"['Overgrow', 'Long Reach']",36.6,1.6,45,0,13/04/2016
+725,7,Litten,Fire Cat Pokemon,fire,,"['Blaze', 'Intimidate']",4.3,0.4,45,0,12/08/2016
+726,7,Torracat,Fire Cat Pokemon,fire,,"['Blaze', 'Intimidate']",25.0,0.7,45,0,26/04/2016
+727,7,Incineroar,Heel Pokemon,fire,dark,"['Blaze', 'Intimidate']",83.0,1.8,45,0,17/09/2016
+728,7,Popplio,Sea Lion Pokemon,water,,"['Torrent', 'Liquid Voice']",7.5,0.4,45,0,22/11/2016
+729,7,Brionne,Pop Star Pokemon,water,,"['Torrent', 'Liquid Voice']",17.5,0.6,45,0,19/05/2016
+730,7,Primarina,Soloist Pokemon,water,fairy,"['Torrent', 'Liquid Voice']",44.0,1.8,45,0,11/06/2016
+731,7,Pikipek,Woodpecker Pokemon,normal,flying,"['Keen Eye', 'Skill Link', 'Pickup']",1.2,0.3,255,0,23/04/2016
+732,7,Trumbeak,Bugle Beak Pokemon,normal,flying,"['Keen Eye', 'Skill Link', 'Pickup']",14.8,0.6,120,0,26/06/2016
+733,7,Toucannon,Cannon Pokemon,normal,flying,"['Keen Eye', 'Skill Link', 'Sheer Force']",26.0,1.1,45,0,24/04/2016
+734,7,Yungoos,Loitering Pokemon,normal,,"['Stakeout', 'Strong Jaw', 'Adaptability']",6.0,0.4,255,0,15/09/2016
+735,7,Gumshoos,Stakeout Pokemon,normal,,"['Stakeout', 'Strong Jaw', 'Adaptability']",14.2,0.7,127,0,28/01/2016
+736,7,Grubbin,Larva Pokemon,bug,,"['Swarm']",4.4,0.4,255,0,06/07/2016
+737,7,Charjabug,Battery Pokemon,bug,electric,"['Battery']",10.5,0.5,120,0,13/08/2016
+738,7,Vikavolt,Stag Beetle Pokemon,bug,electric,"['Levitate']",45.0,1.5,45,0,08/06/2016
+739,7,Crabrawler,Boxing Pokemon,fighting,,"['Hyper Cutter', 'Iron Fist', 'Anger Point']",7.0,0.6,225,0,04/07/2016
+740,7,Crabominable,Woolly Crab Pokemon,fighting,ice,"['Hyper Cutter', 'Iron Fist', 'Anger Point']",180.0,1.7,60,0,25/03/2016
+741,7,Oricorio,Dancing Pokemon,fire,flying,"['Dancer']",3.4,0.6,45,0,03/05/2016
+742,7,Cutiefly,Bee Fly Pokemon,bug,fairy,"['Honey Gather', 'Shield Dust', 'Sweet Veil']",0.2,0.1,190,0,19/09/2016
+743,7,Ribombee,Bee Fly Pokemon,bug,fairy,"['Honey Gather', 'Shield Dust', 'Sweet Veil']",0.5,0.2,75,0,07/02/2016
+744,7,Rockruff,Puppy Pokemon,rock,,"['Keen Eye', 'Vital Spirit', 'Steadfast']",9.2,0.5,190,0,08/05/2016
+745,7,Lycanroc,Wolf Pokemon,rock,,"['Keen Eye', 'Sand Rush', 'Steadfast', 'Keen Eye', 'Vital Spirit', 'No Guard']",,,90,0,14/04/2016
+746,7,Wishiwashi,Small Fry Pokemon,water,,"['Schooling']",0.3,0.2,60,0,21/03/2016
+747,7,Mareanie,Brutal Star Pokemon,poison,water,"['Merciless', 'Limber', 'Regenerator']",8.0,0.4,190,0,17/05/2016
+748,7,Toxapex,Brutal Star Pokemon,poison,water,"['Merciless', 'Limber', 'Regenerator']",14.5,0.7,75,0,21/05/2016
+749,7,Mudbray,Donkey Pokemon,ground,,"['Own Tempo', 'Stamina', 'Inner Focus']",110.0,1.0,190,0,12/11/2016
+750,7,Mudsdale,Draft Horse Pokemon,ground,,"['Own Tempo', 'Stamina', 'Inner Focus']",920.0,2.5,60,0,24/11/2016
+751,7,Dewpider,Water Bubble Pokemon,water,bug,"['Water Bubble', 'Water Absorb']",4.0,0.3,200,0,15/10/2016
+752,7,Araquanid,Water Bubble Pokemon,water,bug,"['Water Bubble', 'Water Absorb']",82.0,1.8,100,0,19/10/2016
+753,7,Fomantis,Sickle Grass Pokemon,grass,,"['Leaf Guard', 'Contrary']",1.5,0.3,190,0,15/03/2016
+754,7,Lurantis,Bloom Sickle Pokemon,grass,,"['Leaf Guard', 'Contrary']",18.5,0.9,75,0,08/05/2016
+755,7,Morelull,Illuminating Pokemon,grass,fairy,"['Illuminate', 'Effect Spore', 'Rain Dish']",1.5,0.2,190,0,18/08/2016
+756,7,Shiinotic,Illuminating Pokemon,grass,fairy,"['Illuminate', 'Effect Spore', 'Rain Dish']",11.5,1.0,75,0,15/09/2016
+757,7,Salandit,Toxic Lizard Pokemon,poison,fire,"['Corrosion', 'Oblivious']",4.8,0.6,120,0,28/11/2016
+758,7,Salazzle,Toxic Lizard Pokemon,poison,fire,"['Corrosion', 'Oblivious']",22.2,1.2,45,0,09/09/2016
+759,7,Stufful,Flailing Pokemon,normal,fighting,"['Fluffy', 'Klutz', 'Cute Charm']",6.8,0.5,140,0,03/09/2016
+760,7,Bewear,Strong Arm Pokemon,normal,fighting,"['Fluffy', 'Klutz', 'Unnerve']",135.0,2.1,70,0,11/01/2016
+761,7,Bounsweet,Fruit Pokemon,grass,,"['Leaf Guard', 'Oblivious', 'Sweet Veil']",3.2,0.3,235,0,06/07/2016
+762,7,Steenee,Fruit Pokemon,grass,,"['Leaf Guard', 'Oblivious', 'Sweet Veil']",8.2,0.7,120,0,12/08/2016
+763,7,Tsareena,Fruit Pokemon,grass,,"['Leaf Guard', 'Queenly Majesty', 'Sweet Veil']",21.4,1.2,45,0,05/05/2016
+764,7,Comfey,Posy Picker Pokemon,fairy,,"['Flower Veil', 'Triage', 'Natural Cure']",0.3,0.1,60,0,24/07/2016
+765,7,Oranguru,Sage Pokemon,normal,psychic,"['Inner Focus', 'Telepathy', 'Symbiosis']",76.0,1.5,45,0,02/11/2016
+766,7,Passimian,Teamwork Pokemon,fighting,,"['Receiver', 'Defiant']",82.8,2.0,45,0,17/11/2016
+767,7,Wimpod,Turn Tail Pokemon,bug,water,"['Wimp Out']",12.0,0.5,90,0,27/06/2016
+768,7,Golisopod,Hard Scale Pokemon,bug,water,"['Emergency Exit']",108.0,2.0,45,0,26/08/2016
+769,7,Sandygast,Sand Heap Pokemon,ghost,ground,"['Water Compaction', 'Sand Veil']",70.0,0.5,140,0,08/02/2016
+770,7,Palossand,Sand Castle Pokemon,ghost,ground,"['Water Compaction', 'Sand Veil']",250.0,1.3,60,0,09/03/2016
+771,7,Pyukumuku,Sea Cucumber Pokemon,water,,"['Innards Out', 'Unaware']",1.2,0.3,60,0,14/06/2016
+772,7,Type: Null,Synthetic Pokemon,normal,,"['Battle Armor']",120.5,1.9,3,0,06/02/2016
+773,7,Silvally,Synthetic Pokemon,normal,,"['RKS System']",100.5,2.3,3,0,03/07/2016
+774,7,Minior,Meteor Pokemon,rock,flying,"['Shields Down']",40.0,0.3,30,0,13/08/2016
+775,7,Komala,Drowsing Pokemon,normal,,"['Comatose']",19.9,0.4,45,0,07/07/2016
+776,7,Turtonator,Blast Turtle Pokemon,fire,dragon,"['Shell Armor']",212.0,2.0,70,0,16/03/2016
+777,7,Togedemaru,Roly-Poly Pokemon,electric,steel,"['Iron Barbs', 'Lightningrod', 'Sturdy']",3.3,0.3,180,0,04/09/2016
+778,7,Mimikyu,Disguise Pokemon,ghost,fairy,"['Disguise']",0.7,0.2,45,0,15/04/2016
+779,7,Bruxish,Gnash Teeth Pokemon,water,psychic,"['Dazzling', 'Strong Jaw', 'Wonder Skin ']",19.0,0.9,80,0,05/11/2016
+780,7,Drampa,Placid Pokemon,normal,dragon,"['Berserk', 'Sap Sipper', 'Cloud Nine']",185.0,3.0,70,0,11/10/2016
+781,7,Dhelmise,Sea Creeper Pokemon,ghost,grass,"['Steelworker']",210.0,3.9,25,0,23/11/2016
+782,7,Jangmo-o,Scaly Pokemon,dragon,,"['Bulletproof', 'Soundproof', 'Overcoat']",29.7,0.6,45,0,10/03/2016
+783,7,Hakamo-o,Scaly Pokemon,dragon,fighting,"['Bulletproof', 'Soundproof', 'Overcoat']",47.0,1.2,45,0,30/11/2016
+784,7,Kommo-o,Scaly Pokemon,dragon,fighting,"['Bulletproof', 'Soundproof', 'Overcoat']",78.2,1.6,45,0,14/04/2016
+785,7,Tapu Koko,Land Spirit Pokemon,electric,fairy,"['Electric Surge', 'Telepathy']",20.5,1.8,3,1,23/11/2016
+786,7,Tapu Lele,Land Spirit Pokemon,psychic,fairy,"['Psychic Surge', 'Telepathy']",18.6,1.2,3,1,01/12/2016
+787,7,Tapu Bulu,Land Spirit Pokemon,grass,fairy,"['Grassy Surge', 'Telepathy']",45.5,1.9,3,1,10/08/2016
+788,7,Tapu Fini,Land Spirit Pokemon,water,fairy,"['Misty Surge', 'Telepathy']",21.2,1.3,3,1,15/12/2016
+789,7,Cosmog,Nebula Pokemon,psychic,,"['Unaware']",0.1,0.2,45,1,30/11/2016
+790,7,Cosmoem,Protostar Pokemon,psychic,,"['Sturdy']",999.9,0.1,45,1,15/07/2016
+791,7,Solgaleo,Sunne Pokemon,psychic,steel,"['Full Metal Body']",230.0,3.4,45,1,20/05/2016
+792,7,Lunala,Moone Pokemon,psychic,ghost,"['Shadow Shield']",120.0,4.0,45,1,17/03/2016
+793,7,Nihilego,Parasite Pokemon,rock,poison,"['Beast Boost']",55.5,1.2,45,1,09/01/2016
+794,7,Buzzwole,Swollen Pokemon,bug,fighting,"['Beast Boost']",333.6,2.4,25,1,22/02/2016
+795,7,Pheromosa,Lissome Pokemon,bug,fighting,"['Beast Boost']",25.0,1.8,255,1,24/03/2016
+796,7,Xurkitree,Glowing Pokemon,electric,,"['Beast Boost']",100.0,3.8,30,1,11/06/2016
+797,7,Celesteela,Launch Pokemon,steel,flying,"['Beast Boost']",999.9,9.2,25,1,21/10/2016
+798,7,Kartana,Drawn Sword Pokemon,grass,steel,"['Beast Boost']",0.1,0.3,255,1,22/02/2016
+799,7,Guzzlord,Junkivore Pokemon,dark,dragon,"['Beast Boost']",888.0,5.5,15,1,27/08/2016
+800,7,Necrozma,Prism Pokemon,psychic,,"['Prism Armor']",230.0,2.4,3,1,24/04/2016
+801,7,Magearna,Artificial Pokemon,steel,fairy,"['Soul-Heart']",80.5,1.0,3,1,03/01/2016
